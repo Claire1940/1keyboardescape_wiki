@@ -28,6 +28,15 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Gamepad2: LucideIcons.Gamepad2,
   TrendingUp: LucideIcons.TrendingUp,
 
+  // +1 Speed Keyboard Escape 主题图标
+  Gift: LucideIcons.Gift,
+  RefreshCw: LucideIcons.RefreshCw,
+  Zap: LucideIcons.Zap,
+  Trophy: LucideIcons.Trophy,
+  Ticket: LucideIcons.Ticket,
+  Target: LucideIcons.Target,
+  Rocket: LucideIcons.Rocket,
+
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,
   ChevronDown: LucideIcons.ChevronDown,

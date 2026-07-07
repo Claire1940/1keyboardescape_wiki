@@ -14,7 +14,7 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Play on Roblox",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -52,696 +52,270 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "+1 Speed Keyboard Escape Gameplay",
+    "description": "Every step gives Speed in this Roblox obby. Train on treadmills, stack Trails and Auras, rebirth for permanent multipliers, and race across candy and chocolate keyboard worlds."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "+1 Speed Keyboard Escape",
+    "titleHighlight": "Guides",
+    "subtitle": "Codes, beginner tips, speed farming, and rebirth strategies for +1 Speed Keyboard Escape on Roblox.",
     "cards": [
       {
+        "icon": "Gift",
+        "title": "+1 Speed Keyboard Escape Codes",
+        "description": "Active codes, social rewards, and free Speed boosts"
+      },
+      {
         "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
-      },
-      {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
-      },
-      {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
-      },
-      {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
+        "title": "+1 Speed Keyboard Escape Beginner Guide",
+        "description": "First steps, basic loop, and early progression"
       },
       {
         "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
+        "title": "+1 Speed Keyboard Escape Speed Farming",
+        "description": "Stack steps, treadmills, multipliers, and rebirth bonuses"
       },
       {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "RefreshCw",
+        "title": "+1 Speed Keyboard Escape Rebirth Guide",
+        "description": "Reset Speed for permanent multipliers and faster farming"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
-      "steps": [
+    "keyboardEscapeCodes": {
+      "title": "+1 Speed Keyboard Escape Codes",
+      "eyebrow": "Free Rewards",
+      "subtitle": "Redeem working codes and social rewards for free Speed. Use these boosts to clear early keyboard stages faster.",
+      "intro": "Codes in +1 Speed Keyboard Escape mainly give flat Speed rewards, so they are best used when you are actively pushing stages or rebuilding Speed after an early rebirth.",
+      "items": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "code": "BYP4SS1",
+          "status": "Active",
+          "reward": "15,000 Speed",
+          "type": "Public speed code",
+          "howToClaim": "Click the Code button on the top-left side of the screen, paste BYP4SS1, then press OK.",
+          "bestUse": "Use it for an early boost or after an early rebirth so the flat Speed reward helps immediately."
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "code": "Personal Social Code",
+          "status": "Active",
+          "reward": "15,000 Speed",
+          "type": "One-time Discord social reward",
+          "howToClaim": "Join the official Discord, open the Social-Code channel, press Get-Code, then paste the generated code into the in-game Code box.",
+          "bestUse": "Generate and redeem it quickly because social codes are personal and time-limited."
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "code": "Free Group Gift",
+          "status": "Claimable",
+          "reward": "15,000 Speed",
+          "type": "Group and like reward",
+          "howToClaim": "Like the Roblox experience, join the game group, then claim the FREE lobby reward or treasure box.",
+          "bestUse": "Claim it when you are ready to push stages, because it is a flat Speed reward."
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "code": "CHOCO2026",
+          "status": "Expired",
+          "reward": "No longer redeemable",
+          "type": "Old public code",
+          "howToClaim": "Expired codes cannot be redeemed.",
+          "bestUse": "Keep this listed so players do not waste time testing it."
+        },
+        {
+          "code": "2026",
+          "status": "Expired",
+          "reward": "No longer redeemable",
+          "type": "Old public code",
+          "howToClaim": "Expired codes cannot be redeemed.",
+          "bestUse": "Keep this listed so players do not waste time testing it."
         }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
+    "keyboardEscapeBeginnerGuide": {
+      "title": "+1 Speed Keyboard Escape Beginner Guide",
+      "eyebrow": "Starter Guide",
+      "subtitle": "Learn the basic loop: gain Speed, cross keyboard stages, collect Wins, and stack multipliers.",
+      "intro": "+1 Speed Keyboard Escape is a Roblox obby where every step gives Speed. The goal is to train Speed, survive keyboard platforms, reach safe zones, collect Wins, and use upgrades to move faster over time.",
+      "steps": [
         {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "step": 1,
+          "title": "Start Building Speed",
+          "description": "Every step gives +1 Speed by default. Keep moving in the lobby or on stages to raise your Speed and level.",
+          "playerGoal": "Build enough Speed to clear the first keyboard obstacles."
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
+          "step": 2,
+          "title": "Run Across Keyboard Stages",
+          "description": "The course is made of keyboard keys. Run and jump carefully because one wrong step can send you back to the start.",
+          "playerGoal": "Reach the next safe zone without falling."
         },
         {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
+          "step": 3,
+          "title": "Collect Wins From Yellow Pads",
+          "description": "Wins are collected from yellow pads after clearing stages. Wins are the main currency for upgrades.",
+          "playerGoal": "Farm stages you can clear consistently."
         },
         {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
+          "step": 4,
+          "title": "Buy Trails and Auras",
+          "description": "Trails and Auras are passive boosts purchased with Wins. They stack with other Speed bonuses.",
+          "playerGoal": "Buy cheap upgrades first, then replace them with stronger ones."
+        },
+        {
+          "step": 5,
+          "title": "Use Treadmills for AFK Speed",
+          "description": "Treadmills at spawn let you gain Speed without constantly moving. The free Chocolate treadmill gives a x1 multiplier, while paid treadmills can give stronger multipliers.",
+          "playerGoal": "Use treadmills when you need steady Speed before a harder stage."
+        },
+        {
+          "step": 6,
+          "title": "Rebirth for Long-Term Progress",
+          "description": "Rebirth resets your current Speed level but gives a permanent multiplier. This makes later farming much faster.",
+          "playerGoal": "Rebirth once your next level requirement starts slowing down."
         }
-      ],
+      ]
+    },
+    "keyboardEscapeSpeedFarming": {
+      "title": "+1 Speed Keyboard Escape Speed Farming Guide",
+      "eyebrow": "Speed Farming",
+      "subtitle": "Farm Speed faster by stacking steps, buttons, treadmills, Trails, Auras, boosts, and Rebirth multipliers.",
+      "intro": "Speed farming is not just about walking. The fastest progress comes from stacking permanent Rebirth multipliers, equipping the best Trail and Aura, using treadmills, and farming Wins for better upgrades.",
+      "items": [
+        {
+          "priority": 1,
+          "method": "Basic Walking",
+          "requirement": "None",
+          "speedGain": "+1 Speed per step by default",
+          "bestUse": "Use from the start; every movement helps build early Speed.",
+          "notes": "This is the base loop of the game."
+        },
+        {
+          "priority": 2,
+          "method": "Number Buttons",
+          "requirement": "Wins",
+          "speedGain": "Base: +1, 3 Wins: +2, 15 Wins: +3, 100 Wins: +25, 500 Wins: +50, 2,500 Wins: +100, 15,000 Wins: +250, 50,000 Wins: +500",
+          "bestUse": "Stand on higher buttons when you have enough Wins to raise Speed per step.",
+          "notes": "This is one of the simplest early upgrades."
+        },
+        {
+          "priority": 3,
+          "method": "Treadmills",
+          "requirement": "Use treadmills at spawn",
+          "speedGain": "Chocolate treadmill: x1, Diamond treadmill: x9, Admin treadmill: x100",
+          "bestUse": "Use treadmills for steady Speed farming or AFK farming.",
+          "notes": "The free Chocolate treadmill is enough for early farming."
+        },
+        {
+          "priority": 4,
+          "method": "Trails and Auras",
+          "requirement": "Wins",
+          "speedGain": "Green Trail: 500 Wins, Blue Trail: 1,500 Wins, Purple Trail: 5,000 Wins, Red Trail: 25,000 Wins, Rainbow Trail: 100,000 Wins, Glow Aura: 1M Wins, Wind Aura: 5M Wins, Water Aura: 10M Wins, Fire Aura: 25M Wins, Void Trail: 50M Wins, Godlike Trail: 1B Wins",
+          "bestUse": "Equip your best Trail and best Aura together.",
+          "notes": "Trails and Auras stack with other Speed bonuses."
+        },
+        {
+          "priority": 5,
+          "method": "Rebirth",
+          "requirement": "Reach the next rebirth level threshold",
+          "speedGain": "Permanent Speed multiplier after reset",
+          "bestUse": "Rebirth early when progress slows, then rebuild faster with the new multiplier.",
+          "notes": "Rebirth resets your current Speed level but improves long-term farming."
+        },
+        {
+          "priority": 6,
+          "method": "Medal Aura",
+          "requirement": "Complete the Medal clip quest",
+          "speedGain": "Free x1 Aura multiplier",
+          "bestUse": "Claim early so every farming session benefits from the extra Aura.",
+          "notes": "Record and upload a short public Medal clip, then claim the Aura in-game."
+        },
+        {
+          "priority": 7,
+          "method": "Flat Speed Rewards",
+          "requirement": "Codes, social code, or group gift",
+          "speedGain": "15,000 Speed per reward",
+          "bestUse": "Use after an early rebirth or before pushing harder stages.",
+          "notes": "Flat Speed rewards help quickly, but they are not permanent multipliers."
+        }
+      ]
+    },
+    "keyboardEscapeRebirth": {
+      "title": "+1 Speed Keyboard Escape Rebirth Guide",
+      "eyebrow": "Progression",
+      "subtitle": "Rebirth is the main long-term progression system. Reset your current Speed level to unlock stronger permanent multipliers.",
+      "intro": "Rebirthing is worth doing because it turns short-term Speed progress into permanent multiplier growth. Each rebirth requires a higher level, resets your current Speed level, and makes future farming faster.",
       "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
-      "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "milestone": "First Rebirth",
+          "rebirth": 1,
+          "levelRequired": 15,
+          "multiplier": "x1.5",
+          "whatResets": "Current Speed level resets",
+          "whatYouGain": "Permanent Speed multiplier",
+          "bestAction": "Do this early to start long-term multiplier stacking."
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "milestone": "Second Rebirth",
+          "rebirth": 2,
+          "levelRequired": 25,
+          "multiplier": "x2",
+          "whatResets": "Current Speed level resets",
+          "whatYouGain": "Stronger permanent Speed multiplier",
+          "bestAction": "Rebuild Speed with walking, buttons, and treadmills."
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "milestone": "Third Rebirth",
+          "rebirth": 3,
+          "levelRequired": 40,
+          "multiplier": "x2.5",
+          "whatResets": "Current Speed level resets",
+          "whatYouGain": "Permanent multiplier upgrade",
+          "bestAction": "Keep farming Wins so Trails and Auras scale with your rebirth progress."
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
+          "milestone": "Early Multiplier Boost",
+          "rebirth": 5,
+          "levelRequired": 75,
+          "multiplier": "x3.5",
+          "whatResets": "Current Speed level resets",
+          "whatYouGain": "Noticeably faster Speed rebuilding",
+          "bestAction": "Use free Speed rewards after rebirth if you want a quick stage push."
         },
         {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
+          "milestone": "Major Farming Breakpoint",
+          "rebirth": 10,
+          "levelRequired": 200,
+          "multiplier": "x10",
+          "whatResets": "Current Speed level resets",
+          "whatYouGain": "Large permanent farming boost",
+          "bestAction": "Start focusing harder on treadmill farming and higher-cost Trails or Auras."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
+          "milestone": "High Multiplier Jump",
+          "rebirth": 13,
+          "levelRequired": 300,
+          "multiplier": "x10K",
+          "whatResets": "Current Speed level resets",
+          "whatYouGain": "Huge permanent Speed multiplier",
+          "bestAction": "Use this point to push into harder stage farming."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
+          "milestone": "Late-Game Rebirth",
+          "rebirth": 15,
+          "levelRequired": 380,
+          "multiplier": "x1M",
+          "whatResets": "Current Speed level resets",
+          "whatYouGain": "Massive permanent Speed scaling",
+          "bestAction": "Farm Wins aggressively and keep your best Trail and Aura equipped."
         },
         {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
-        }
-      ]
-    },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
-          ]
-        },
-        {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
-          ]
-        },
-        {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
-        },
-        {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
-          ]
-        }
-      ]
-    },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
-        {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
-        },
-        {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
-        },
-        {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
-        },
-        {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
-        },
-        {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
-        },
-        {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
-        {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
-        },
-        {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
-        },
-        {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
-      "steps": [
-        {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
-        },
-        {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
-        },
-        {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
-        },
-        {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
-        },
-        {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "milestone": "Max Listed Rebirth Tier",
+          "rebirth": 20,
+          "levelRequired": 600,
+          "multiplier": "x100B",
+          "whatResets": "Current Speed level resets",
+          "whatYouGain": "Top listed permanent multiplier tier",
+          "bestAction": "Use the multiplier to farm late-game stages, stronger upgrades, and higher Win rewards."
         }
       ]
     }
@@ -749,31 +323,31 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about +1 Speed Keyboard Escape",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What are +1 Speed Keyboard Escape codes?",
+        "answer": "+1 Speed Keyboard Escape codes are free redeemable rewards that give flat Speed boosts. Open the Code button on the top-left of the screen, paste an active code, and press OK to claim Speed you can use for stage pushes or post-rebirth rebuilding."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "How do I get more Speed in +1 Speed Keyboard Escape?",
+        "answer": "In +1 Speed Keyboard Escape, every step gives +1 Speed by default. Farm faster by standing on Number Buttons, using treadmills, equipping Trails and Auras, and stacking Rebirth multipliers so each new session grows quicker than the last."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "When should I rebirth in +1 Speed Keyboard Escape?",
+        "answer": "Rebirth in +1 Speed Keyboard Escape as soon as your next level requirement starts slowing down. Rebirthing resets your current Speed level but grants a permanent multiplier, which makes all future walking, treadmill, and stage farming noticeably faster."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "What do treadmills do in +1 Speed Keyboard Escape?",
+        "answer": "Treadmills in +1 Speed Keyboard Escape let your character farm Speed while standing still. The free Chocolate treadmill gives a x1 multiplier, while paid treadmills scale up to x100, making them ideal for AFK Speed farming between active stage runs."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "How do Trails and Auras work in +1 Speed Keyboard Escape?",
+        "answer": "Trails and Auras in +1 Speed Keyboard Escape are multiplier gear purchased with Wins. Equip one Trail and one Aura together and keep upgrading as your Wins income grows, because both stack with treadmill and Rebirth multipliers for compounding Speed gains."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "Is +1 Speed Keyboard Escape free to play?",
+        "answer": "Yes. +1 Speed Keyboard Escape is a free Roblox obby. Optional Robux purchases like premium treadmills and Trails speed up progress, but all core gameplay, codes, social rewards, and the Medal Aura can be unlocked without spending Robux."
       }
     ]
   },
@@ -801,124 +375,124 @@
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
+      "title": "+1 Speed Keyboard Escape Guides",
+      "description": "Complete gameplay guides from beginner basics to advanced speed farming and rebirth strategies for +1 Speed Keyboard Escape on Roblox.",
+      "metaTitle": "+1 Speed Keyboard Escape Guides - Beginner to Advanced Strategies",
+      "metaDescription": "Complete +1 Speed Keyboard Escape guides covering beginner tips, codes, speed farming, rebirth, treadmills, and expert tactics for the Roblox speed obby.",
       "categoryLabel": "GAME GUIDES",
       "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
+      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, speed farming, and the rebirth system. Learn everything from first steps to advanced multiplier strategies in +1 Speed Keyboard Escape.",
       "why": "Why read guides?",
       "whySteps": {
         "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
+        "step1Description": "Understand the Speed, Wins, and rebirth loop and avoid common beginner mistakes",
         "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
+        "step2Description": "Follow proven paths to clear keyboard stages and stack multipliers faster",
         "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step3Description": "Develop advanced tactics for treadmill farming, Trails, Auras, and rebirth timing"
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
     "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+      "title": "+1 Speed Keyboard Escape Speed Farming",
+      "description": "Master speed farming with steps, Number Buttons, treadmills, Trails, Auras, and Rebirth multipliers in +1 Speed Keyboard Escape.",
+      "metaTitle": "+1 Speed Keyboard Escape Speed Farming - Best Methods & Multipliers",
+      "metaDescription": "Master +1 Speed Keyboard Escape speed farming. Learn Number Buttons, treadmill multipliers, Trails, Auras, and Rebirth strategies for the fastest Speed gains.",
+      "categoryLabel": "SPEED FARMING",
+      "whatIs": "What is Speed Farming?",
+      "whatIsDescription": "Speed farming combines every multiplier source in +1 Speed Keyboard Escape, from basic walking and Number Buttons to treadmills, Trails, Auras, and Rebirth, so each session compounds on the last.",
+      "why": "Why optimize speed farming?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Stack Multipliers",
+        "step1Description": "Combine Rebirth, Trail, Aura, and treadmill multipliers for compounding Speed",
+        "step2Title": "Use Treadmills",
+        "step2Description": "Farm Speed AFK with the free Chocolate treadmill or upgrade to stronger ones",
+        "step3Title": "Rebuild Faster",
+        "step3Description": "Rebirth early so post-reset farming runs grow quicker every time"
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Speed Farming Guides"
     },
     "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+      "title": "+1 Speed Keyboard Escape Trails and Auras",
+      "description": "Detailed guides covering Trails, Auras, treadmills, and multiplier gear with costs, unlock requirements, and best-use tips.",
+      "metaTitle": "+1 Speed Keyboard Escape Trails & Auras - Tier List and Costs",
+      "metaDescription": "Complete +1 Speed Keyboard Escape Trails and Auras database including multiplier values, Wins costs, and best farming value for every gear tier.",
+      "categoryLabel": "TRAILS & AURAS",
+      "whatIs": "What are Trails and Auras?",
+      "whatIsDescription": "Trails and Auras are multiplier gear in +1 Speed Keyboard Escape purchased with Wins. Equip one of each together and keep upgrading as your Wins income grows.",
+      "why": "Why check Trails and Auras guides?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Pick the Right Gear",
+        "step1Description": "Choose the best Trail and Aura for your current Wins income",
+        "step2Title": "Stack Multipliers",
+        "step2Description": "Pair Trails and Auras with Rebirth and treadmill bonuses",
+        "step3Title": "Plan Upgrades",
+        "step3Description": "Know exactly which gear to buy next for the biggest Speed jump"
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Trails and Auras"
     },
     "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+      "title": "+1 Speed Keyboard Escape Worlds and Stages",
+      "description": "Explore worlds, stage routes, obstacle types, and reset risks for every keyboard world in +1 Speed Keyboard Escape.",
+      "metaTitle": "+1 Speed Keyboard Escape Worlds & Stages - Route Tips and Walkthroughs",
+      "metaDescription": "Explore +1 Speed Keyboard Escape worlds and stages including keyboard platforms, mazes, gates, tsunamis, and route tips for clearing every world.",
+      "categoryLabel": "WORLDS & STAGES",
+      "whatIs": "What are Worlds and Stages?",
+      "whatIsDescription": "Guides to each world, stage route, obstacle type, and reset risk. Learn what to expect and how to prepare for keyboard platforms, mazes, and timed hazards.",
+      "why": "Why explore worlds and stages?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Learn Routes",
+        "step1Description": "Memorize safe paths so one wrong step does not reset your run",
+        "step2Title": "Time Hazards",
+        "step2Description": "Read bridges, tsunamis, and gates so you cross cleanly",
+        "step3Title": "Farm Wins",
+        "step3Description": "Repeat clearable stages to bank Wins for stronger upgrades"
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Worlds and Stages"
     },
     "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+      "title": "+1 Speed Keyboard Escape Rebirth and Progression",
+      "description": "Master rebirth timing, multiplier stacking, and long-term progression for permanent Speed growth in +1 Speed Keyboard Escape.",
+      "metaTitle": "+1 Speed Keyboard Escape Rebirth Guide - When and Why to Rebirth",
+      "metaDescription": "Master +1 Speed Keyboard Escape rebirth with level requirements, multiplier rewards, reset rules, and timing strategies for permanent Speed scaling.",
+      "categoryLabel": "REBIRTH & PROGRESSION",
+      "whatIs": "What is Rebirth?",
+      "whatIsDescription": "Rebirth is the long-term progression system in +1 Speed Keyboard Escape. Reset your current Speed level to unlock a permanent multiplier that makes all future farming faster.",
+      "why": "Why rebirth?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Permanent Multipliers",
+        "step1Description": "Turn short-term Speed into a multiplier that never resets",
+        "step2Title": "Faster Rebuilds",
+        "step2Description": "Each rebirth makes post-reset farming quicker than before",
+        "step3Title": "Long-Term Scaling",
+        "step3Description": "Stack rebirths so late-game stages and gear become affordable"
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Rebirth Guides"
     },
     "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+      "title": "+1 Speed Keyboard Escape Events and Updates",
+      "description": "Update notes, limited-time events, reward boosts, and free reward guides for +1 Speed Keyboard Escape.",
+      "metaTitle": "+1 Speed Keyboard Escape Events & Updates - Codes and Free Rewards",
+      "metaDescription": "Get the latest +1 Speed Keyboard Escape update notes, events, limited-time boosts, codes, social rewards, and Medal Aura claim guides.",
+      "categoryLabel": "EVENTS & UPDATES",
+      "whatIs": "What are Events and Updates?",
+      "whatIsDescription": "Guides covering new content, limited-time events, reward boosts, and free reward systems like codes, social codes, group gifts, and the Medal Aura.",
+      "why": "Why follow events and updates?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Catch Free Rewards",
+        "step1Description": "Redeem codes, social codes, and group gifts for flat Speed boosts",
+        "step2Title": "Use Limited Boosts",
+        "step2Description": "Stack event multipliers and free 2x Speed boosts with treadmills",
+        "step3Title": "Stay Current",
+        "step3Description": "Track new worlds, gear, and rebirth changes from each update"
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Events and Updates"
     }
   }
 }
