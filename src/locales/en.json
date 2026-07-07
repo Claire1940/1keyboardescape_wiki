@@ -79,6 +79,26 @@
         "icon": "RefreshCw",
         "title": "+1 Speed Keyboard Escape Rebirth Guide",
         "description": "Reset Speed for permanent multipliers and faster farming"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "+1 Speed Keyboard Escape Trails and Auras",
+        "description": "Multiplier gear tier list by value, cost, and farming impact"
+      },
+      {
+        "icon": "Activity",
+        "title": "+1 Speed Keyboard Escape Treadmills",
+        "description": "AFK Speed farming multipliers from free to endgame"
+      },
+      {
+        "icon": "Route",
+        "title": "+1 Speed Keyboard Escape Stages Walkthrough",
+        "description": "Stage routes, timing, and reset-risk notes for every world"
+      },
+      {
+        "icon": "Medal",
+        "title": "+1 Speed Keyboard Escape Free Rewards",
+        "description": "Medal Aura, social code, group gift, and free Speed boosts"
       }
     ]
   },
@@ -316,6 +336,373 @@
           "whatResets": "Current Speed level resets",
           "whatYouGain": "Top listed permanent multiplier tier",
           "bestAction": "Use the multiplier to farm late-game stages, stronger upgrades, and higher Win rewards."
+        }
+      ]
+    },
+    "keyboardEscapeTrailsAuras": {
+      "title": "+1 Speed Keyboard Escape Trails and Auras",
+      "eyebrow": "Gear Tier List",
+      "subtitle": "Trails and auras are multiplier gear, not just cosmetics. Equip one trail and one aura together, then keep upgrading in order as your Wins income grows.",
+      "intro": "This tier list ranks the highest-value trails and auras by multiplier strength, unlock cost, and farming impact. Trails give the largest long-term boost, while auras add a second multiplier layer that stacks well with rebirths and treadmills.",
+      "tiers": [
+        {
+          "tier": "S",
+          "label": "Best Progression Value",
+          "summary": "Use these when you want the biggest farming jump or the strongest free multiplier option.",
+          "items": [
+            {
+              "name": "Infinity Trail",
+              "type": "Trail",
+              "multiplier": "5,000,000x",
+              "winsCost": "Robux-only",
+              "robuxCost": "2,999 Robux",
+              "bestFor": "Premium endgame farming and leaderboard pushing"
+            },
+            {
+              "name": "Godlike Trail",
+              "type": "Trail",
+              "multiplier": "100,000x",
+              "winsCost": "5,000,000,000 Wins",
+              "robuxCost": "2,600 Robux",
+              "bestFor": "Best free-to-play endgame trail target"
+            },
+            {
+              "name": "Supernova Trail",
+              "type": "Trail",
+              "multiplier": "10,000x",
+              "winsCost": "500,000,000 Wins",
+              "robuxCost": "2,289 Robux",
+              "bestFor": "Late-game farming before Godlike"
+            },
+            {
+              "name": "Void Trail",
+              "type": "Trail",
+              "multiplier": "1,000x",
+              "winsCost": "50,000,000 Wins",
+              "robuxCost": "1,989 Robux",
+              "bestFor": "First huge endgame trail jump"
+            },
+            {
+              "name": "Fire Aura",
+              "type": "Aura",
+              "multiplier": "3x",
+              "winsCost": "25,000,000 Wins",
+              "robuxCost": "649 Robux",
+              "bestFor": "Strongest standard aura"
+            },
+            {
+              "name": "Medal Aura",
+              "type": "Aura",
+              "multiplier": "2x",
+              "winsCost": "Free Medal Quest",
+              "robuxCost": "Free",
+              "bestFor": "Best free aura for new players"
+            }
+          ]
+        },
+        {
+          "tier": "A",
+          "label": "Strong Mid-to-Late Upgrades",
+          "summary": "These are efficient upgrades once basic trails stop carrying your stage clears.",
+          "items": [
+            {
+              "name": "Cosmic Trail",
+              "type": "Trail",
+              "multiplier": "100x",
+              "winsCost": "5,000,000 Wins",
+              "robuxCost": "1,599 Robux",
+              "bestFor": "First major post-Rainbow trail wall"
+            },
+            {
+              "name": "Galaxy Trail",
+              "type": "Trail",
+              "multiplier": "10x",
+              "winsCost": "Robux-only",
+              "robuxCost": "389 Robux",
+              "bestFor": "Low-cost Robux trail upgrade"
+            },
+            {
+              "name": "Rainbow Trail",
+              "type": "Trail",
+              "multiplier": "5x",
+              "winsCost": "100,000 Wins",
+              "robuxCost": "249 Robux",
+              "bestFor": "Best early visual trail with useful speed value"
+            },
+            {
+              "name": "Water Aura",
+              "type": "Aura",
+              "multiplier": "2x",
+              "winsCost": "10,000,000 Wins",
+              "robuxCost": "489 Robux",
+              "bestFor": "Solid aura before Fire Aura"
+            },
+            {
+              "name": "Wind Aura",
+              "type": "Aura",
+              "multiplier": "1.5x",
+              "winsCost": "5,000,000 Wins",
+              "robuxCost": "249 Robux",
+              "bestFor": "Cheaper aura scaling step"
+            }
+          ]
+        },
+        {
+          "tier": "B",
+          "label": "Starter and Early Farming Picks",
+          "summary": "Buy these in order so you are never stuck farming Wins with a weak multiplier.",
+          "items": [
+            {
+              "name": "Red Trail",
+              "type": "Trail",
+              "multiplier": "4x",
+              "winsCost": "25,000 Wins",
+              "robuxCost": "139 Robux",
+              "bestFor": "Early stage clearing"
+            },
+            {
+              "name": "Purple Trail",
+              "type": "Trail",
+              "multiplier": "3x",
+              "winsCost": "5,000 Wins",
+              "robuxCost": "59 Robux",
+              "bestFor": "Fast early upgrade after Blue"
+            },
+            {
+              "name": "Blue Trail",
+              "type": "Trail",
+              "multiplier": "2x",
+              "winsCost": "1,500 Wins",
+              "robuxCost": "29 Robux",
+              "bestFor": "Best first upgrade jump over Green"
+            },
+            {
+              "name": "Green Trail",
+              "type": "Trail",
+              "multiplier": "1.5x",
+              "winsCost": "500 Wins",
+              "robuxCost": "19 Robux",
+              "bestFor": "First trail for brand-new accounts"
+            },
+            {
+              "name": "Glow Aura",
+              "type": "Aura",
+              "multiplier": "1.2x",
+              "winsCost": "1,000,000 Wins",
+              "robuxCost": "59 Robux",
+              "bestFor": "First paid aura step"
+            }
+          ]
+        }
+      ]
+    },
+    "keyboardEscapeTreadmills": {
+      "title": "+1 Speed Keyboard Escape Treadmills",
+      "eyebrow": "AFK Speed Farming",
+      "subtitle": "Treadmills let your character farm Speed while standing still. The higher the treadmill multiplier, the faster you reach level gates, rebirth requirements, and harder worlds.",
+      "intro": "Use the free Chocolate treadmill to start, then upgrade based on how often you play. Diamond is the best value jump, Candy is for long sessions, and Admin is the fastest treadmill currently listed for Speed farming.",
+      "items": [
+        {
+          "name": "Normal Running",
+          "multiplier": "1x base movement",
+          "price": "Free",
+          "bestFor": "Learning routes and clearing early stages",
+          "pros": ["No purchase needed", "Builds basic route control"],
+          "cons": ["Manual movement only", "Slow for rebirth farming"],
+          "recommendation": "Use only while learning stages or collecting early Wins."
+        },
+        {
+          "name": "Chocolate Treadmill",
+          "multiplier": "x1",
+          "price": "Free",
+          "bestFor": "First AFK-style training setup",
+          "pros": ["Free starter treadmill", "Lets you gain Speed without route running"],
+          "cons": ["No multiplier advantage over base gain"],
+          "recommendation": "Use immediately, then replace when you can afford a paid treadmill."
+        },
+        {
+          "name": "Golden Treadmill",
+          "multiplier": "x3",
+          "price": "59 Robux",
+          "bestFor": "Small first purchase",
+          "pros": ["Cheapest paid treadmill", "Triples Speed gain"],
+          "cons": ["Outscaled quickly by Diamond"],
+          "recommendation": "Good for light spenders who want a simple early boost."
+        },
+        {
+          "name": "Diamond Treadmill",
+          "multiplier": "x9",
+          "price": "259 Robux",
+          "bestFor": "Best value treadmill",
+          "pros": ["Clear x9 jump over base gain", "Strong balance of price and performance"],
+          "cons": ["Still far below Candy and Admin"],
+          "recommendation": "Best buy for most regular players."
+        },
+        {
+          "name": "Candy Treadmill",
+          "multiplier": "x25",
+          "price": "749 Robux",
+          "bestFor": "Dedicated grinders",
+          "pros": ["Large x25 farming boost", "Works well with rebirths, trails, and auras"],
+          "cons": ["Costs much more than Diamond"],
+          "recommendation": "Pick this if you farm for long sessions and want faster rebirth loops."
+        },
+        {
+          "name": "Admin Treadmill",
+          "multiplier": "x100",
+          "price": "1,599 Robux",
+          "bestFor": "Endgame Speed farming",
+          "pros": ["Strongest treadmill multiplier", "Fastest route to high rebirth requirements"],
+          "cons": ["Highest Robux cost"],
+          "recommendation": "Best premium option when maximum Speed gain matters more than cost."
+        }
+      ]
+    },
+    "keyboardEscapeStages": {
+      "title": "+1 Speed Keyboard Escape Stages Walkthrough",
+      "eyebrow": "Stage Walkthrough",
+      "subtitle": "Speed helps, but timing and route memory decide most hard stages. Use these stage notes to avoid resets and farm Wins more consistently.",
+      "intro": "The core rule is simple: every step gives Speed, but one wrong step sends you back. Build enough Speed first, then run each stage with a clear route plan instead of sprinting blindly.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Prepare before pushing hard stages",
+          "world": "All Worlds",
+          "stageFocus": "Before entering new stage chains",
+          "routeTip": "Stack rebirths, your best trail, your best aura, and treadmill Speed before moving into harder worlds.",
+          "resetRisk": "Entering underleveled makes simple jumps feel inconsistent and wastes repeated attempts.",
+          "rewardFocus": "Clear shorter safe stages first to bank Wins for stronger buttons, trails, and auras."
+        },
+        {
+          "step": 2,
+          "title": "Use controlled speed on early parkour",
+          "world": "World 1",
+          "stageFocus": "Stage 4",
+          "routeTip": "At around 100 Speed, the parkour can be skipped with a strong jump. At very high speed, run straight through instead of overcorrecting jumps.",
+          "resetRisk": "Too much speed can make short jumps harder to control.",
+          "rewardFocus": "Use this stage to practice speed control before the timing stages."
+        },
+        {
+          "step": 3,
+          "title": "Wait for the bridge signal",
+          "world": "World 1",
+          "stageFocus": "Stage 5",
+          "routeTip": "Do not rush as soon as the countdown begins. Start when the on-screen wait signal appears so you get a better crossing window.",
+          "resetRisk": "Starting too early leaves less time to finish the bridge cleanly.",
+          "rewardFocus": "A clean bridge clear keeps your Wins route consistent."
+        },
+        {
+          "step": 4,
+          "title": "Time the chocolate tsunami",
+          "world": "World 1",
+          "stageFocus": "Stages 6 and 14",
+          "routeTip": "For Stage 6, wait until the wave is right in front of you, then move after it passes. For Stage 14, go as soon as the faster wave appears.",
+          "resetRisk": "Moving too early lets the wave catch you; hesitating on Stage 14 misses the timing window.",
+          "rewardFocus": "Stage 6 is also a useful repeat farm once you can clear it safely."
+        },
+        {
+          "step": 5,
+          "title": "Use the launcher shortcut",
+          "world": "World 1",
+          "stageFocus": "Stage 11",
+          "routeTip": "At the launch point, hold forward and do not jump. The platform launches you ahead much faster than taking every platform one by one.",
+          "resetRisk": "Jumping at the wrong moment can ruin the shortcut angle.",
+          "rewardFocus": "This is one of the fastest World 1 shortcuts for repeat clears."
+        },
+        {
+          "step": 6,
+          "title": "Memorize the maze route",
+          "world": "World 1",
+          "stageFocus": "Stage 12",
+          "routeTip": "Take the first right, keep following the path, turn right at the first intersection, then take the next right again.",
+          "resetRisk": "Guessing inside the maze wastes time and can send you in circles.",
+          "rewardFocus": "Route memory makes late World 1 clears much more stable."
+        },
+        {
+          "step": 7,
+          "title": "Keep momentum through World 2 hazards",
+          "world": "World 2",
+          "stageFocus": "Stages 2, 7, and 8",
+          "routeTip": "For Stage 2, start right after the first gate opens. For Stage 7, keep moving while spiders fall. For Stage 8, run steadily through the fan gusts.",
+          "resetRisk": "Stopping in front of gates, spiders, or fans gives the hazards time to knock you off route.",
+          "rewardFocus": "These stages reward steady movement more than sudden direction changes."
+        },
+        {
+          "step": 8,
+          "title": "Follow the teddy maze pattern",
+          "world": "World 2",
+          "stageFocus": "Stage 9",
+          "routeTip": "Use the route Left, Right, Right, Right, Left to exit the maze while the teddy bear boss chases you.",
+          "resetRisk": "Wrong turns let the boss close the gap quickly.",
+          "rewardFocus": "Learning this path opens the route into the later World 2 stages."
+        },
+        {
+          "step": 9,
+          "title": "Enter the final World 2 stage with enough Speed",
+          "world": "World 2",
+          "stageFocus": "Stage 15",
+          "routeTip": "Stage 15 combines stairs, gates, long jumps, and chase pressure. Level 550+ gives enough Speed to clear the gaps more comfortably.",
+          "resetRisk": "Low Speed makes the mixed obstacle chain much harder to recover from.",
+          "rewardFocus": "Completing this stage rewards 200,000,000 Wins."
+        }
+      ]
+    },
+    "keyboardEscapeFreeRewards": {
+      "title": "+1 Speed Keyboard Escape Free Rewards",
+      "eyebrow": "Free Rewards",
+      "subtitle": "Claim the free multiplier rewards before long farming sessions, then save flat Speed rewards until after early rebirths so they are not reset away.",
+      "intro": "These rewards help new players start faster without spending Robux. Medal Aura adds a free aura multiplier, while the group gift and social code give flat Speed boosts that are best claimed after your first few rebirths.",
+      "items": [
+        {
+          "task": "Claim the Medal Aura",
+          "reward": "Free Medal Aura with a 2x Speed multiplier",
+          "steps": [
+            "Download Medal and sign in.",
+            "Open Connected Accounts and link your Roblox account.",
+            "Run Medal in the background while playing +1 Speed Keyboard Escape.",
+            "Play for at least 15 seconds, press F8 to save a clip, then upload it publicly with the +1 Speed Keyboard Escape game tag.",
+            "Return to the game, open Inventory, go to Auras, and equip Medal Aura."
+          ],
+          "bestTimeToClaim": "Claim early before long treadmill farming or stage grinding.",
+          "whyItMatters": "It gives a free aura multiplier without spending Wins or Robux."
+        },
+        {
+          "task": "Redeem the Social Code",
+          "reward": "+15,000 Speed",
+          "steps": [
+            "Join the official community Discord.",
+            "Open the social-code channel.",
+            "Link Discord with your Roblox account if prompted.",
+            "Press Get Code to generate your one-time code.",
+            "Open the in-game Code button, paste the code, and redeem it."
+          ],
+          "bestTimeToClaim": "Use after Rebirth 2 so the flat Speed boost is not wiped by early resets.",
+          "whyItMatters": "It is one of the fastest free Speed boosts for a new account."
+        },
+        {
+          "task": "Claim the Roblox Group Gift",
+          "reward": "+15,000 Speed",
+          "steps": [
+            "Open the Roblox game page and like the experience.",
+            "Join the official Roblox community linked to the game.",
+            "Return to the lobby.",
+            "Press the FREE gift button or open the lobby treasure box.",
+            "Use Verify and Claim to receive the reward."
+          ],
+          "bestTimeToClaim": "Use after Rebirth 2 for better value.",
+          "whyItMatters": "It gives another quick flat Speed boost with no Robux required."
+        },
+        {
+          "task": "Use the Free 2x Speed Boost",
+          "reward": "10 minutes of doubled Speed gain",
+          "steps": [
+            "Open the shop icon on the left side of the screen.",
+            "Watch the short ad prompt.",
+            "Activate the 2x Speed boost.",
+            "Stand on your best treadmill while the boost is active."
+          ],
+          "bestTimeToClaim": "Use during a focused treadmill farming session.",
+          "whyItMatters": "The timer is short, so stacking it with a treadmill gives the best return."
         }
       ]
     }

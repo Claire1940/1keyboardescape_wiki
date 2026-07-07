@@ -2,16 +2,22 @@
 
 import { Suspense, lazy } from "react";
 import {
+  Activity,
+  AlertTriangle,
   ArrowRight,
   BookOpen,
   Check,
+  Clock,
   ExternalLink,
   Gift,
+  Medal,
   RefreshCw,
+  Route,
   Sparkles,
   Target,
   TrendingUp,
   Trophy,
+  X,
 } from "lucide-react";
 import Link from "next/link";
 import { useMessages } from "next-intl";
@@ -48,6 +54,10 @@ const TOOL_CARD_SECTION_IDS = [
   "beginner-guide",
   "speed-farming-guide",
   "rebirth-guide",
+  "trails-auras",
+  "treadmills",
+  "stages",
+  "free-rewards",
 ];
 
 // Codes 模块 status 徽章样式（语义化 tailwind 色，非品牌色硬编码）
@@ -244,7 +254,7 @@ export default function HomePageClient({
         </div>
       </section>
 
-      {/* Tools Grid - 4 Navigation Cards（1:1 锚点，位于视频区之后、Latest Updates 之前） */}
+      {/* Tools Grid - 8 Navigation Cards（1:1 锚点，位于视频区之后、Latest Updates 之前） */}
       <section className="px-4 py-14 md:py-20 bg-white/[0.02]">
         <div className="container mx-auto max-w-5xl">
           <div className="text-center mb-8 md:mb-12 scroll-reveal">
@@ -613,6 +623,349 @@ export default function HomePageClient({
                 </a>
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* 广告位: Module 4 之后 */}
+      <AdBanner
+        type="banner-300x250"
+        adKey={process.env.NEXT_PUBLIC_AD_BANNER_300X250}
+        className="md:hidden"
+      />
+      <AdBanner
+        type="banner-728x90"
+        adKey={process.env.NEXT_PUBLIC_AD_BANNER_728X90}
+        className="hidden md:flex"
+      />
+
+      {/* Module 5: Trails and Auras Tier List (tier-grid) */}
+      <section id="trails-auras" className="scroll-mt-24 px-4 py-14 md:py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-8 md:mb-12 scroll-reveal">
+            <div className="inline-flex items-center gap-2 rounded-full px-3 py-1 mb-4
+                            bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">
+              <Sparkles className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
+              <span className="text-xs md:text-sm font-medium">
+                {t.modules.keyboardEscapeTrailsAuras.eyebrow}
+              </span>
+            </div>
+            <h2 className="text-3xl md:text-5xl font-bold mb-3 md:mb-4">
+              {t.modules.keyboardEscapeTrailsAuras.title}
+            </h2>
+            <p className="text-base md:text-lg text-muted-foreground max-w-3xl mx-auto mb-2">
+              {t.modules.keyboardEscapeTrailsAuras.subtitle}
+            </p>
+            <p className="text-sm md:text-base text-muted-foreground max-w-3xl mx-auto">
+              {t.modules.keyboardEscapeTrailsAuras.intro}
+            </p>
+          </div>
+
+          {/* Tier Grid */}
+          <div className="scroll-reveal grid grid-cols-1 lg:grid-cols-3 gap-4 md:gap-6">
+            {t.modules.keyboardEscapeTrailsAuras.tiers.map((tier: any, ti: number) => (
+              <div
+                key={ti}
+                className={`flex flex-col rounded-2xl border border-border overflow-hidden
+                            ${tier.tier === "S"
+                      ? "bg-[hsl(var(--nav-theme)/0.05)] border-[hsl(var(--nav-theme)/0.3)]"
+                      : "bg-white/[0.02]"}`}
+              >
+                {/* Tier Header */}
+                <div
+                  className={`flex items-center gap-3 p-4 md:p-5 border-b border-border
+                              ${tier.tier === "S"
+                        ? "bg-[hsl(var(--nav-theme)/0.15)]"
+                        : tier.tier === "A"
+                          ? "bg-[hsl(var(--nav-theme)/0.08)]"
+                          : "bg-white/[0.03]"}`}
+                >
+                  <span
+                    className={`flex items-center justify-center w-11 h-11 md:w-12 md:h-12 rounded-xl text-xl md:text-2xl font-bold
+                                ${tier.tier === "S"
+                          ? "bg-[hsl(var(--nav-theme))] text-white"
+                          : tier.tier === "A"
+                            ? "bg-[hsl(var(--nav-theme)/0.25)] text-[hsl(var(--nav-theme-light))]"
+                            : "bg-white/10 text-muted-foreground"}`}
+                  >
+                    {tier.tier}
+                  </span>
+                  <div className="min-w-0">
+                    <h3 className="font-bold text-base md:text-lg leading-tight">{tier.label}</h3>
+                    <p className="text-xs text-muted-foreground mt-0.5">{tier.summary}</p>
+                  </div>
+                </div>
+                {/* Tier Items */}
+                <div className="flex flex-col divide-y divide-border">
+                  {tier.items.map((item: any, ii: number) => (
+                    <div key={ii} className="p-4 md:p-5 hover:bg-white/[0.02] transition-colors">
+                      <div className="flex items-start justify-between gap-2 mb-2">
+                        <div className="min-w-0">
+                          <div className="flex items-center gap-2 flex-wrap">
+                            <h4 className="font-semibold">{item.name}</h4>
+                            <span
+                              className={`text-xs px-2 py-0.5 rounded-full border whitespace-nowrap
+                                          ${item.type === "Trail"
+                                ? "bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))]"
+                                : "bg-white/5 border-border text-muted-foreground"}`}
+                            >
+                              {item.type}
+                            </span>
+                          </div>
+                        </div>
+                        <span className="text-base md:text-lg font-bold text-[hsl(var(--nav-theme-light))] whitespace-nowrap">
+                          {item.multiplier}
+                        </span>
+                      </div>
+                      <div className="flex flex-wrap gap-x-4 gap-y-1 text-xs text-muted-foreground mb-2">
+                        <span>
+                          <span className="text-muted-foreground/70">Wins:</span> {item.winsCost}
+                        </span>
+                        <span>
+                          <span className="text-muted-foreground/70">Robux:</span> {item.robuxCost}
+                        </span>
+                      </div>
+                      <p className="text-sm text-muted-foreground">{item.bestFor}</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 6: Treadmills Guide (comparison cards) */}
+      <section
+        id="treadmills"
+        className="scroll-mt-24 px-4 py-14 md:py-20 bg-white/[0.02]"
+      >
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-8 md:mb-12 scroll-reveal">
+            <div className="inline-flex items-center gap-2 rounded-full px-3 py-1 mb-4
+                            bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">
+              <Activity className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
+              <span className="text-xs md:text-sm font-medium">
+                {t.modules.keyboardEscapeTreadmills.eyebrow}
+              </span>
+            </div>
+            <h2 className="text-3xl md:text-5xl font-bold mb-3 md:mb-4">
+              {t.modules.keyboardEscapeTreadmills.title}
+            </h2>
+            <p className="text-base md:text-lg text-muted-foreground max-w-3xl mx-auto mb-2">
+              {t.modules.keyboardEscapeTreadmills.subtitle}
+            </p>
+            <p className="text-sm md:text-base text-muted-foreground max-w-3xl mx-auto">
+              {t.modules.keyboardEscapeTreadmills.intro}
+            </p>
+          </div>
+
+          {/* Treadmill Cards */}
+          <div className="scroll-reveal space-y-3 md:space-y-4">
+            {t.modules.keyboardEscapeTreadmills.items.map((item: any, index: number) => (
+              <div
+                key={index}
+                className="p-4 md:p-6 bg-white/5 border border-border rounded-xl
+                           hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
+              >
+                <div className="flex flex-col md:flex-row md:items-start gap-4">
+                  {/* Left: name + multiplier + price */}
+                  <div className="md:w-1/3 flex flex-col gap-2">
+                    <div className="flex items-center gap-3">
+                      <span className="inline-flex items-center justify-center min-w-[3.5rem] px-2 h-10 rounded-lg
+                                       bg-[hsl(var(--nav-theme)/0.15)] border border-[hsl(var(--nav-theme)/0.3)]
+                                       text-sm font-bold text-[hsl(var(--nav-theme-light))] whitespace-nowrap">
+                        {item.multiplier}
+                      </span>
+                      <h3 className="font-bold text-base md:text-lg">{item.name}</h3>
+                    </div>
+                    <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] whitespace-nowrap w-fit">
+                      {item.price}
+                    </span>
+                    <p className="text-sm text-muted-foreground">{item.bestFor}</p>
+                  </div>
+                  {/* Right: pros/cons/recommendation */}
+                  <div className="md:flex-1 min-w-0">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-3">
+                      <div>
+                        <p className="text-xs uppercase tracking-wide text-muted-foreground/70 mb-1.5">Pros</p>
+                        <ul className="space-y-1">
+                          {item.pros.map((p: string, pi: number) => (
+                            <li key={pi} className="flex items-start gap-1.5 text-sm">
+                              <Check className="w-3.5 h-3.5 text-green-400 mt-0.5 flex-shrink-0" />
+                              <span>{p}</span>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                      <div>
+                        <p className="text-xs uppercase tracking-wide text-muted-foreground/70 mb-1.5">Cons</p>
+                        <ul className="space-y-1">
+                          {item.cons.map((c: string, ci: number) => (
+                            <li key={ci} className="flex items-start gap-1.5 text-sm text-muted-foreground">
+                              <X className="w-3.5 h-3.5 text-red-400/80 mt-0.5 flex-shrink-0" />
+                              <span>{c}</span>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    </div>
+                    <p className="flex items-start gap-2 text-sm text-muted-foreground pt-3 border-t border-border">
+                      <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                      <span>{item.recommendation}</span>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* 广告位: Module 6 之后 */}
+      <AdBanner
+        type="banner-300x250"
+        adKey={process.env.NEXT_PUBLIC_AD_BANNER_300X250}
+        className="md:hidden"
+      />
+      <AdBanner
+        type="banner-468x60"
+        adKey={process.env.NEXT_PUBLIC_AD_BANNER_468X60}
+        className="hidden md:flex"
+      />
+
+      {/* Module 7: Stages Walkthrough (step-by-step) */}
+      <section id="stages" className="scroll-mt-24 px-4 py-14 md:py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-8 md:mb-12 scroll-reveal">
+            <div className="inline-flex items-center gap-2 rounded-full px-3 py-1 mb-4
+                            bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">
+              <Route className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
+              <span className="text-xs md:text-sm font-medium">
+                {t.modules.keyboardEscapeStages.eyebrow}
+              </span>
+            </div>
+            <h2 className="text-3xl md:text-5xl font-bold mb-3 md:mb-4">
+              {t.modules.keyboardEscapeStages.title}
+            </h2>
+            <p className="text-base md:text-lg text-muted-foreground max-w-3xl mx-auto mb-2">
+              {t.modules.keyboardEscapeStages.subtitle}
+            </p>
+            <p className="text-sm md:text-base text-muted-foreground max-w-3xl mx-auto">
+              {t.modules.keyboardEscapeStages.intro}
+            </p>
+          </div>
+
+          {/* Stage Steps */}
+          <div className="scroll-reveal space-y-3 md:space-y-4">
+            {t.modules.keyboardEscapeStages.steps.map((step: any, index: number) => (
+              <div
+                key={index}
+                className="flex gap-3 md:gap-4 p-4 md:p-6 bg-white/5 border border-border rounded-xl
+                           hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
+              >
+                <div className="flex h-10 w-10 md:h-12 md:w-12 flex-shrink-0 items-center justify-center
+                                rounded-full border-2 border-[hsl(var(--nav-theme)/0.5)]
+                                bg-[hsl(var(--nav-theme)/0.2)]">
+                  <span className="text-base md:text-xl font-bold text-[hsl(var(--nav-theme-light))]">
+                    {step.step}
+                  </span>
+                </div>
+                <div className="min-w-0 flex-1">
+                  <h3 className="text-lg md:text-xl font-bold mb-2">{step.title}</h3>
+                  <div className="flex flex-wrap gap-2 mb-3">
+                    <span className="text-xs px-2 py-0.5 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] whitespace-nowrap">
+                      {step.world}
+                    </span>
+                    <span className="text-xs px-2 py-0.5 rounded-full bg-white/5 border border-border text-muted-foreground whitespace-nowrap">
+                      {step.stageFocus}
+                    </span>
+                  </div>
+                  <p className="flex items-start gap-2 text-sm md:text-base text-muted-foreground mb-2">
+                    <Route className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                    <span>{step.routeTip}</span>
+                  </p>
+                  <p className="flex items-start gap-2 text-sm text-muted-foreground mb-2">
+                    <AlertTriangle className="w-4 h-4 text-amber-400/80 mt-0.5 flex-shrink-0" />
+                    <span>{step.resetRisk}</span>
+                  </p>
+                  <p className="flex items-start gap-2 text-sm text-muted-foreground">
+                    <Trophy className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                    <span>{step.rewardFocus}</span>
+                  </p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 8: Free Rewards (checklist) */}
+      <section
+        id="free-rewards"
+        className="scroll-mt-24 px-4 py-14 md:py-20 bg-white/[0.02]"
+      >
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-8 md:mb-12 scroll-reveal">
+            <div className="inline-flex items-center gap-2 rounded-full px-3 py-1 mb-4
+                            bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">
+              <Medal className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
+              <span className="text-xs md:text-sm font-medium">
+                {t.modules.keyboardEscapeFreeRewards.eyebrow}
+              </span>
+            </div>
+            <h2 className="text-3xl md:text-5xl font-bold mb-3 md:mb-4">
+              {t.modules.keyboardEscapeFreeRewards.title}
+            </h2>
+            <p className="text-base md:text-lg text-muted-foreground max-w-3xl mx-auto mb-2">
+              {t.modules.keyboardEscapeFreeRewards.subtitle}
+            </p>
+            <p className="text-sm md:text-base text-muted-foreground max-w-3xl mx-auto">
+              {t.modules.keyboardEscapeFreeRewards.intro}
+            </p>
+          </div>
+
+          {/* Reward Checklist Cards */}
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
+            {t.modules.keyboardEscapeFreeRewards.items.map((item: any, index: number) => (
+              <div
+                key={index}
+                className="flex flex-col p-5 md:p-6 bg-white/5 border border-border rounded-xl
+                           hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
+              >
+                <div className="flex items-center gap-3 mb-3">
+                  <span className="flex items-center justify-center w-9 h-9 rounded-lg
+                                   bg-[hsl(var(--nav-theme))] text-white font-bold">
+                    {index + 1}
+                  </span>
+                  <h3 className="font-bold text-base md:text-lg">{item.task}</h3>
+                </div>
+                <p className="text-sm font-semibold text-[hsl(var(--nav-theme-light))] mb-3 px-3 py-2 rounded-lg
+                             bg-[hsl(var(--nav-theme)/0.08)] border border-[hsl(var(--nav-theme)/0.2)]">
+                  {item.reward}
+                </p>
+                <ol className="space-y-1.5 mb-3">
+                  {item.steps.map((s: string, si: number) => (
+                    <li key={si} className="flex items-start gap-2 text-sm text-muted-foreground">
+                      <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                      <span>{s}</span>
+                    </li>
+                  ))}
+                </ol>
+                <div className="mt-auto pt-3 border-t border-border space-y-2">
+                  <p className="flex items-start gap-2 text-sm text-muted-foreground">
+                    <Clock className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                    <span>
+                      <span className="text-muted-foreground/70">Best time:</span> {item.bestTimeToClaim}
+                    </span>
+                  </p>
+                  <p className="flex items-start gap-2 text-sm text-muted-foreground">
+                    <Sparkles className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                    <span>{item.whyItMatters}</span>
+                  </p>
+                </div>
+              </div>
+            ))}
           </div>
         </div>
       </section>

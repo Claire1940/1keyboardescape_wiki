@@ -36,6 +36,9 @@ export const iconRegistry: Record<string, LucideIcon> = {
   Ticket: LucideIcons.Ticket,
   Target: LucideIcons.Target,
   Rocket: LucideIcons.Rocket,
+  Activity: LucideIcons.Activity,
+  Route: LucideIcons.Route,
+  Medal: LucideIcons.Medal,
 
   // UI 交互图标
   Sparkles: LucideIcons.Sparkles,
