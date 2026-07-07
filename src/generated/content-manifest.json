@@ -1,1 +1,530 @@
-{}
+{
+  "en": {
+    "codes": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-codes",
+        "file": "+1-Speed-Keyboard-Escape-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-beginner-guide",
+        "file": "+1-Speed-Keyboard-Escape-beginner-guide"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-best-method-f2p",
+        "file": "+1-Speed-Keyboard-Escape-best-method-f2p"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-fastest-way-to-level-up",
+        "file": "+1-Speed-Keyboard-Escape-fastest-way-to-level-up"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-guide",
+        "file": "+1-Speed-Keyboard-Escape-guide"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-how-to-get-a-lot-of-speed",
+        "file": "+1-Speed-Keyboard-Escape-how-to-get-a-lot-of-speed"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-how-to-progress",
+        "file": "+1-Speed-Keyboard-Escape-how-to-progress"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-tips",
+        "file": "+1-Speed-Keyboard-Escape-tips"
+      }
+    ],
+    "items": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-items",
+        "file": "+1-Speed-Keyboard-Escape-items"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-medal-quest",
+        "file": "+1-Speed-Keyboard-Escape-medal-quest"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-medal",
+        "file": "+1-Speed-Keyboard-Escape-medal"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-shop",
+        "file": "+1-Speed-Keyboard-Escape-shop"
+      }
+    ],
+    "maze": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-maze",
+        "file": "+1-Speed-Keyboard-Escape-maze"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-12-map",
+        "file": "+1-Speed-Keyboard-Escape-stage-12-map"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-12-route",
+        "file": "+1-Speed-Keyboard-Escape-stage-12-route"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-15-maze",
+        "file": "+1-Speed-Keyboard-Escape-stage-15-maze"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-15-route",
+        "file": "+1-Speed-Keyboard-Escape-stage-15-route"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2-maze",
+        "file": "+1-Speed-Keyboard-Escape-world-2-maze"
+      }
+    ],
+    "rebirth": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-max-rebirth-20",
+        "file": "+1-Speed-Keyboard-Escape-max-rebirth-20"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-max-rebirth-25",
+        "file": "+1-Speed-Keyboard-Escape-max-rebirth-25"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-max-rebirth",
+        "file": "+1-Speed-Keyboard-Escape-max-rebirth"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-max-speed",
+        "file": "+1-Speed-Keyboard-Escape-max-speed"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-multiplier",
+        "file": "+1-Speed-Keyboard-Escape-multiplier"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-rebirth",
+        "file": "+1-Speed-Keyboard-Escape-rebirth"
+      }
+    ],
+    "stages": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-10",
+        "file": "+1-Speed-Keyboard-Escape-level-10"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-11",
+        "file": "+1-Speed-Keyboard-Escape-level-11"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-12",
+        "file": "+1-Speed-Keyboard-Escape-level-12"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-13",
+        "file": "+1-Speed-Keyboard-Escape-level-13"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-14",
+        "file": "+1-Speed-Keyboard-Escape-level-14"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-15",
+        "file": "+1-Speed-Keyboard-Escape-level-15"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-12",
+        "file": "+1-Speed-Keyboard-Escape-stage-12"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-120-map",
+        "file": "+1-Speed-Keyboard-Escape-stage-120-map"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-15",
+        "file": "+1-Speed-Keyboard-Escape-stage-15"
+      }
+    ],
+    "worlds": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-1",
+        "file": "+1-Speed-Keyboard-Escape-world-1"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2-stage-10",
+        "file": "+1-Speed-Keyboard-Escape-world-2-stage-10"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2-stage-13",
+        "file": "+1-Speed-Keyboard-Escape-world-2-stage-13"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2-stage-14",
+        "file": "+1-Speed-Keyboard-Escape-world-2-stage-14"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2-stage-9",
+        "file": "+1-Speed-Keyboard-Escape-world-2-stage-9"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2",
+        "file": "+1-Speed-Keyboard-Escape-world-2"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-3",
+        "file": "+1-Speed-Keyboard-Escape-world-3"
+      }
+    ]
+  },
+  "es": {
+    "codes": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-codes",
+        "file": "+1-Speed-Keyboard-Escape-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-beginner-guide",
+        "file": "+1-Speed-Keyboard-Escape-beginner-guide"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-best-method-f2p",
+        "file": "+1-Speed-Keyboard-Escape-best-method-f2p"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-fastest-way-to-level-up",
+        "file": "+1-Speed-Keyboard-Escape-fastest-way-to-level-up"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-guide",
+        "file": "+1-Speed-Keyboard-Escape-guide"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-how-to-get-a-lot-of-speed",
+        "file": "+1-Speed-Keyboard-Escape-how-to-get-a-lot-of-speed"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-how-to-progress",
+        "file": "+1-Speed-Keyboard-Escape-how-to-progress"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-tips",
+        "file": "+1-Speed-Keyboard-Escape-tips"
+      }
+    ],
+    "items": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-items",
+        "file": "+1-Speed-Keyboard-Escape-items"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-medal-quest",
+        "file": "+1-Speed-Keyboard-Escape-medal-quest"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-medal",
+        "file": "+1-Speed-Keyboard-Escape-medal"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-shop",
+        "file": "+1-Speed-Keyboard-Escape-shop"
+      }
+    ],
+    "maze": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-maze",
+        "file": "+1-Speed-Keyboard-Escape-maze"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-12-map",
+        "file": "+1-Speed-Keyboard-Escape-stage-12-map"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-12-route",
+        "file": "+1-Speed-Keyboard-Escape-stage-12-route"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-15-maze",
+        "file": "+1-Speed-Keyboard-Escape-stage-15-maze"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-15-route",
+        "file": "+1-Speed-Keyboard-Escape-stage-15-route"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2-maze",
+        "file": "+1-Speed-Keyboard-Escape-world-2-maze"
+      }
+    ],
+    "rebirth": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-max-rebirth-20",
+        "file": "+1-Speed-Keyboard-Escape-max-rebirth-20"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-max-rebirth-25",
+        "file": "+1-Speed-Keyboard-Escape-max-rebirth-25"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-max-rebirth",
+        "file": "+1-Speed-Keyboard-Escape-max-rebirth"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-max-speed",
+        "file": "+1-Speed-Keyboard-Escape-max-speed"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-multiplier",
+        "file": "+1-Speed-Keyboard-Escape-multiplier"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-rebirth",
+        "file": "+1-Speed-Keyboard-Escape-rebirth"
+      }
+    ],
+    "stages": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-10",
+        "file": "+1-Speed-Keyboard-Escape-level-10"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-11",
+        "file": "+1-Speed-Keyboard-Escape-level-11"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-12",
+        "file": "+1-Speed-Keyboard-Escape-level-12"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-13",
+        "file": "+1-Speed-Keyboard-Escape-level-13"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-14",
+        "file": "+1-Speed-Keyboard-Escape-level-14"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-15",
+        "file": "+1-Speed-Keyboard-Escape-level-15"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-12",
+        "file": "+1-Speed-Keyboard-Escape-stage-12"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-120-map",
+        "file": "+1-Speed-Keyboard-Escape-stage-120-map"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-15",
+        "file": "+1-Speed-Keyboard-Escape-stage-15"
+      }
+    ],
+    "worlds": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-1",
+        "file": "+1-Speed-Keyboard-Escape-world-1"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2-stage-10",
+        "file": "+1-Speed-Keyboard-Escape-world-2-stage-10"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2-stage-13",
+        "file": "+1-Speed-Keyboard-Escape-world-2-stage-13"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2-stage-14",
+        "file": "+1-Speed-Keyboard-Escape-world-2-stage-14"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2-stage-9",
+        "file": "+1-Speed-Keyboard-Escape-world-2-stage-9"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2",
+        "file": "+1-Speed-Keyboard-Escape-world-2"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-3",
+        "file": "+1-Speed-Keyboard-Escape-world-3"
+      }
+    ]
+  },
+  "pt": {
+    "codes": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-codes",
+        "file": "+1-Speed-Keyboard-Escape-codes"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-beginner-guide",
+        "file": "+1-Speed-Keyboard-Escape-beginner-guide"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-best-method-f2p",
+        "file": "+1-Speed-Keyboard-Escape-best-method-f2p"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-fastest-way-to-level-up",
+        "file": "+1-Speed-Keyboard-Escape-fastest-way-to-level-up"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-guide",
+        "file": "+1-Speed-Keyboard-Escape-guide"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-how-to-get-a-lot-of-speed",
+        "file": "+1-Speed-Keyboard-Escape-how-to-get-a-lot-of-speed"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-how-to-progress",
+        "file": "+1-Speed-Keyboard-Escape-how-to-progress"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-tips",
+        "file": "+1-Speed-Keyboard-Escape-tips"
+      }
+    ],
+    "items": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-items",
+        "file": "+1-Speed-Keyboard-Escape-items"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-medal-quest",
+        "file": "+1-Speed-Keyboard-Escape-medal-quest"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-medal",
+        "file": "+1-Speed-Keyboard-Escape-medal"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-shop",
+        "file": "+1-Speed-Keyboard-Escape-shop"
+      }
+    ],
+    "maze": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-maze",
+        "file": "+1-Speed-Keyboard-Escape-maze"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-12-map",
+        "file": "+1-Speed-Keyboard-Escape-stage-12-map"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-12-route",
+        "file": "+1-Speed-Keyboard-Escape-stage-12-route"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-15-maze",
+        "file": "+1-Speed-Keyboard-Escape-stage-15-maze"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-15-route",
+        "file": "+1-Speed-Keyboard-Escape-stage-15-route"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2-maze",
+        "file": "+1-Speed-Keyboard-Escape-world-2-maze"
+      }
+    ],
+    "rebirth": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-max-rebirth-20",
+        "file": "+1-Speed-Keyboard-Escape-max-rebirth-20"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-max-rebirth-25",
+        "file": "+1-Speed-Keyboard-Escape-max-rebirth-25"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-max-rebirth",
+        "file": "+1-Speed-Keyboard-Escape-max-rebirth"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-max-speed",
+        "file": "+1-Speed-Keyboard-Escape-max-speed"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-multiplier",
+        "file": "+1-Speed-Keyboard-Escape-multiplier"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-rebirth",
+        "file": "+1-Speed-Keyboard-Escape-rebirth"
+      }
+    ],
+    "stages": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-10",
+        "file": "+1-Speed-Keyboard-Escape-level-10"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-11",
+        "file": "+1-Speed-Keyboard-Escape-level-11"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-12",
+        "file": "+1-Speed-Keyboard-Escape-level-12"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-13",
+        "file": "+1-Speed-Keyboard-Escape-level-13"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-14",
+        "file": "+1-Speed-Keyboard-Escape-level-14"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-level-15",
+        "file": "+1-Speed-Keyboard-Escape-level-15"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-12",
+        "file": "+1-Speed-Keyboard-Escape-stage-12"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-120-map",
+        "file": "+1-Speed-Keyboard-Escape-stage-120-map"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-stage-15",
+        "file": "+1-Speed-Keyboard-Escape-stage-15"
+      }
+    ],
+    "worlds": [
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-1",
+        "file": "+1-Speed-Keyboard-Escape-world-1"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2-stage-10",
+        "file": "+1-Speed-Keyboard-Escape-world-2-stage-10"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2-stage-13",
+        "file": "+1-Speed-Keyboard-Escape-world-2-stage-13"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2-stage-14",
+        "file": "+1-Speed-Keyboard-Escape-world-2-stage-14"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2-stage-9",
+        "file": "+1-Speed-Keyboard-Escape-world-2-stage-9"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-2",
+        "file": "+1-Speed-Keyboard-Escape-world-2"
+      },
+      {
+        "slug": "1-Speed-Keyboard-Escape-world-3",
+        "file": "+1-Speed-Keyboard-Escape-world-3"
+      }
+    ]
+  }
+}

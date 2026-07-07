@@ -1,11 +1,944 @@
 {
+  "seo": {
+    "home": {
+      "title": "Wiki de +1 Speed Keyboard Escape - Códigos y Rebirth",
+      "description": "Encuentra códigos de +1 Speed Keyboard Escape, consejos para principiantes de Roblox, ayuda con rebirth, mejoras de treadmills, multiplicadores, mundos, eventos y guías de obby de teclado ASMR.",
+      "keywords": "+1 Speed Keyboard Escape, Roblox, códigos, rebirth, speed, treadmill, multiplicadores, obby",
+      "ogTitle": "Wiki de +1 Speed Keyboard Escape - Códigos y Rebirth",
+      "ogDescription": "Encuentra códigos de +1 Speed Keyboard Escape, consejos para principiantes de Roblox, ayuda con rebirth, mejoras de treadmills, multiplicadores, mundos, eventos y guías de obby de teclado ASMR.",
+      "twitterTitle": "Wiki de +1 Speed Keyboard Escape - Códigos y Rebirth",
+      "twitterDescription": "Encuentra códigos de +1 Speed Keyboard Escape, consejos para principiantes de Roblox, ayuda con rebirth y guías de obby de teclado ASMR."
+    }
+  },
   "nav": {
     "codes": "Códigos",
     "guide": "Guía",
-    "stages": "Niveles",
+    "stages": "Etapas",
     "maze": "Laberinto",
     "worlds": "Mundos",
-    "rebirth": "Renacimiento",
+    "rebirth": "Rebirth",
     "items": "Objetos"
+  },
+  "common": {
+    "home": "Inicio",
+    "more": "Más",
+    "playNow": "Jugar en Roblox",
+    "switchLanguage": "Cambiar idioma",
+    "switchTheme": "Cambiar tema",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que buscas no existe.",
+    "backToHome": "Volver al inicio",
+    "relatedArticles": "Artículos relacionados",
+    "readMore": "Leer más",
+    "articlesComingSoon": "Próximamente más artículos"
+  },
+  "hero": {
+    "badge": "Obby de velocidad en Roblox con vibras de teclado ASMR",
+    "title": "Wiki de +1 Speed Keyboard Escape",
+    "description": "Corre sobre teclas de teclado de dulce y chocolate, gana +1 de speed con cada paso, entrena en treadmills, desbloquea multiplicadores, compite con amigos y llega a la meta antes de que un salto fallido te regrese.",
+    "getFreeCodesCTA": "Obtén códigos gratis",
+    "playOnRobloxCTA": "Jugar en Roblox",
+    "stats": {
+      "stat1": {
+        "value": "2.4B+",
+        "label": "Visitas totales"
+      },
+      "stat2": {
+        "value": "348K+",
+        "label": "Jugadores en línea"
+      },
+      "stat3": {
+        "value": "97.8%",
+        "label": "Calificación de usuarios"
+      },
+      "stat4": {
+        "value": "22",
+        "label": "Máximo de jugadores"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Gameplay de +1 Speed Keyboard Escape",
+    "description": "Cada paso te da Speed en este obby de Roblox. Entrena en treadmills, acumula Trails y Auras, haz rebirth para obtener multipliers permanentes y compite a través de mundos de teclado de caramelo y chocolate."
+  },
+  "tools": {
+    "title": "+1 Speed Keyboard Escape",
+    "titleHighlight": "Guías",
+    "subtitle": "Codes, consejos para principiantes, speed farming y estrategias de rebirth para +1 Speed Keyboard Escape en Roblox.",
+    "cards": [
+      {
+        "icon": "Regalo",
+        "title": "Codes de +1 Speed Keyboard Escape",
+        "description": "Codes activos, recompensas sociales y boosts de Speed gratis"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guía para principiantes de +1 Speed Keyboard Escape",
+        "description": "Primeros pasos, bucle básico y progresión inicial"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Speed Farming en +1 Speed Keyboard Escape",
+        "description": "Acumula pasos, treadmills, multipliers y bonificaciones de rebirth"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Guía de Rebirth de +1 Speed Keyboard Escape",
+        "description": "Reinicia tu Speed para obtener multipliers permanentes y farmear más rápido"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Trails y Auras de +1 Speed Keyboard Escape",
+        "description": "Tier list de equipamiento de multipliers por valor, costo e impacto de farming"
+      },
+      {
+        "icon": "Activity",
+        "title": "Treadmills de +1 Speed Keyboard Escape",
+        "description": "Multipliers de farming de Speed AFK desde gratis hasta el endgame"
+      },
+      {
+        "icon": "Route",
+        "title": "Guía paso a paso de las stages de +1 Speed Keyboard Escape",
+        "description": "Rutas de stages, tiempos y notas de riesgo de reinicio para cada mundo"
+      },
+      {
+        "icon": "Medal",
+        "title": "Recompensas gratis de +1 Speed Keyboard Escape",
+        "description": "Medal Aura, social code, regalo de grupo y boosts de Speed gratis"
+      }
+    ]
+  },
+  "modules": {
+    "keyboardEscapeCodes": {
+      "title": "Codes de +1 Speed Keyboard Escape",
+      "eyebrow": "Recompensas gratis",
+      "subtitle": "Canjea codes activos y recompensas sociales para obtener Speed gratis. Usa estos boosts para superar las primeras stages de teclado más rápido.",
+      "intro": "Los codes en +1 Speed Keyboard Escape otorgan principalmente recompensas de Speed fijas, por lo que es mejor usarlos cuando estés completando stages activamente o recuperando Speed después de un rebirth temprano.",
+      "items": [
+        {
+          "code": "BYP4SS1",
+          "status": "Activo",
+          "reward": "15,000 de Speed",
+          "type": "Code de speed público",
+          "howToClaim": "Haz clic en el botón de Code en la parte superior izquierda de la pantalla, pega BYP4SS1 y luego presiona OK.",
+          "bestUse": "Úsalo para obtener un boost inicial o después de un rebirth temprano para que la recompensa de Speed fija te ayude de inmediato."
+        },
+        {
+          "code": "Code social personal",
+          "status": "Activo",
+          "reward": "15,000 de Velocidad",
+          "type": "Recompensa social de Discord de un solo uso",
+          "howToClaim": "Únete al Discord oficial, abre el canal Social-Code, presiona Get-Code y luego pega el código generado en la casilla de códigos del juego.",
+          "bestUse": "Genera y canjea el código rápidamente, ya que los códigos sociales son personales y de tiempo limitado."
+        },
+        {
+          "code": "Regalo de grupo gratis",
+          "status": "Reclamable",
+          "reward": "15,000 de Velocidad",
+          "type": "Recompensa por unirse al grupo y dar me gusta",
+          "howToClaim": "Dale me gusta a la experiencia de Roblox, únete al grupo del juego y luego reclama la recompensa GRATIS del lobby o el cofre del tesoro.",
+          "bestUse": "Reclámalo cuando estés listo para avanzar etapas, ya que es una recompensa directa de Velocidad."
+        },
+        {
+          "code": "CHOCO2026",
+          "status": "Expirado",
+          "reward": "Ya no se puede canjear",
+          "type": "Código público antiguo",
+          "howToClaim": "Los códigos expirados no se pueden canjear.",
+          "bestUse": "Mantén esto en la lista para que los jugadores no pierdan tiempo probándolo."
+        },
+        {
+          "code": "2026",
+          "status": "Expirado",
+          "reward": "Ya no se puede canjear",
+          "type": "Código público antiguo",
+          "howToClaim": "Los códigos expirados no se pueden canjear.",
+          "bestUse": "Mantén esto en la lista para que los jugadores no pierdan tiempo probándolo."
+        }
+      ]
+    },
+    "keyboardEscapeBeginnerGuide": {
+      "title": "Guía para principiantes de +1 Speed Keyboard Escape",
+      "eyebrow": "Guía de inicio",
+      "subtitle": "Aprende el ciclo básico: gana Velocidad, supera etapas de teclado, colecciona Wins y acumula multiplicadores.",
+      "intro": "+1 Speed Keyboard Escape es un obby de Roblox donde cada paso te da Velocidad. El objetivo es entrenar Velocidad, sobrevivir a las plataformas de teclado, llegar a las zonas seguras, conseguir Wins y usar mejoras para moverte más rápido con el tiempo.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comienza a acumular Velocidad",
+          "description": "Cada paso te da +1 de Velocidad por defecto. Sigue moviéndote en el lobby o en las etapas para aumentar tu Velocidad y nivel.",
+          "playerGoal": "Acumula suficiente Velocidad para superar los primeros obstáculos de teclado."
+        },
+        {
+          "step": 2,
+          "title": "Corre por las etapas de teclado",
+          "description": "La pista está hecha de teclas de teclado. Corre y salta con cuidado, porque un paso en falso puede enviarte de vuelta al inicio.",
+          "playerGoal": "Llega a la siguiente zona segura sin caerte."
+        },
+        {
+          "step": 3,
+          "title": "Consigue Wins en las placas amarillas",
+          "description": "Los Wins se recolectan de las placas amarillas tras completar las etapas. Los Wins son la moneda principal para las mejoras.",
+          "playerGoal": "Farmea etapas que puedas completar con facilidad."
+        },
+        {
+          "step": 4,
+          "title": "Compra Trails y Auras",
+          "description": "Los Trails y Auras son potenciadores pasivos que se compran con Wins. Se acumulan con otras bonificaciones de Velocidad.",
+          "playerGoal": "Compra primero las mejoras baratas y luego reemplázalas por otras más fuertes."
+        },
+        {
+          "step": 5,
+          "title": "Usa las treadmills para obtener Velocidad AFK",
+          "description": "Las cintas de correr en el spawn te permiten ganar Velocidad sin moverte constantemente. La cinta de Chocolate gratuita otorga un multiplicador x1, mientras que las cintas de pago pueden dar multiplicadores más potentes.",
+          "playerGoal": "Usa las caminadoras cuando necesites velocidad constante antes de un nivel más difícil."
+        },
+        {
+          "step": 6,
+          "title": "Rebirth para progresar a largo plazo",
+          "description": "El Rebirth reinicia tu nivel de Speed actual, pero otorga un multiplicador permanente. Esto hace que farmear más adelante sea mucho más rápido.",
+          "playerGoal": "Haz Rebirth cuando el requisito para tu siguiente nivel empiece a ralentizarse."
+        }
+      ]
+    },
+    "keyboardEscapeSpeedFarming": {
+      "title": "Guía de farmeo de velocidad para +1 Speed Keyboard Escape",
+      "eyebrow": "--- Farmeo de velocidad ---",
+      "subtitle": "Farmea Velocidad más rápido acumulando pasos, botones, cintas de correr, Trails, Auras, boosts y multiplicadores de Rebirth.",
+      "intro": "Farmear velocidad no se trata solo de caminar. El progreso más rápido se obtiene acumulando multiplicadores de Rebirth permanentes, equipando el mejor Trail y Aura, usando treadmills y farmeando Wins para obtener mejores mejoras.",
+      "items": [
+        {
+          "priority": 1,
+          "method": "--- Caminata básica ---",
+          "requirement": "Ninguno",
+          "speedGain": "+1 de Velocidad por paso por defecto",
+          "bestUse": "Úsalo desde el principio; cada movimiento ayuda a ganar Velocidad al inicio.",
+          "notes": "Este es el bucle base del juego."
+        },
+        {
+          "priority": 2,
+          "method": "--- Botones numéricos ---",
+          "requirement": "Victorias",
+          "speedGain": "Base: +1, 3 Victorias: +2, 15 Victorias: +3, 100 Victorias: +25, 500 Victorias: +50, 2.500 Victorias: +100, 15.000 Victorias: +250, 50.000 Victorias: +500",
+          "bestUse": "Párate en los botones superiores cuando tengas suficientes Wins para aumentar tu Velocidad por paso.",
+          "notes": "Esta es una de las mejoras iniciales más simples."
+        },
+        {
+          "priority": 3,
+          "method": "Caminadoras",
+          "requirement": "Usa las cintas de correr en el spawn",
+          "speedGain": "--- Cinta de chocolate: x1, Cinta de diamante: x9, Cinta de Admin: x100 ---",
+          "bestUse": "Usa las cintas para farmear Velocidad de forma constante o para farmear AFK.",
+          "notes": "La cinta de correr de Chocolate gratis es suficiente para el farmeo inicial."
+        },
+        {
+          "priority": 4,
+          "method": "Estelas y Auras",
+          "requirement": "Victorias",
+          "speedGain": "Trail Verde: 500 victorias, Trail Azul: 1.500 victorias, Trail Morado: 5.000 victorias, Trail Rojo: 25.000 victorias, Trail Arcoíris: 100.000 victorias, Aura Brillante: 1M de victorias, Aura de Viento: 5M de victorias, Aura de Agua: 10M de victorias, Aura de Fuego: 25M de victorias, Trail del Vacío: 50M de victorias, Trail Divino: 1B de victorias",
+          "bestUse": "Equipa tu mejor Trail y tu mejor Aura a la vez.",
+          "notes": "Trails y Auras se acumulan con otras bonificaciones de velocidad."
+        },
+        {
+          "priority": 5,
+          "method": "Renacer",
+          "requirement": "Alcanza el siguiente umbral de nivel de rebirth",
+          "speedGain": "Multiplicador de velocidad permanente después de reiniciar",
+          "bestUse": "Haz rebirth temprano cuando el progreso se ralentice, luego reconstruye más rápido con el nuevo multiplicador.",
+          "notes": "El Rebirth reinicia tu nivel de Velocidad actual, pero mejora el farmeo a largo plazo."
+        },
+        {
+          "priority": 6,
+          "method": "Aura de medalla",
+          "requirement": "Completa la misión del clip de Medal",
+          "speedGain": "Multiplicador de Aura x1 gratis",
+          "bestUse": "Reclama temprano para que cada sesión de farmeo se beneficie del Aura extra.",
+          "notes": "Graba y sube un clip corto y público de Medal, luego reclama el Aura en el juego."
+        },
+        {
+          "priority": 7,
+          "method": "Recompensas de velocidad fija",
+          "requirement": "Códigos, código social o regalo de grupo",
+          "speedGain": "15,000 de Speed por recompensa",
+          "bestUse": "Úsalo después de un rebirth temprano o antes de avanzar a etapas más difíciles.",
+          "notes": "Las recompensas de Speed fijas ayudan rápido, pero no son multiplicadores permanentes."
+        }
+      ]
+    },
+    "keyboardEscapeRebirth": {
+      "title": "Guía de Rebirth de +1 Speed Keyboard Escape",
+      "eyebrow": "Progresión",
+      "subtitle": "El Rebirth es el sistema de progresión principal a largo plazo. Reinicia tu nivel actual de Speed para desbloquear multiplicadores permanentes más fuertes.",
+      "intro": "Hacer Rebirth vale la pena porque convierte el progreso de Speed a corto plazo en un crecimiento de multiplicador permanente. Cada rebirth requiere un nivel más alto, reinicia tu nivel actual de Speed y hace que el farming futuro sea más rápido.",
+      "milestones": [
+        {
+          "milestone": "Primer Rebirth",
+          "rebirth": 1,
+          "levelRequired": 15,
+          "multiplier": "x1.5",
+          "whatResets": "El nivel actual de Speed se reinicia",
+          "whatYouGain": "Multiplicador de Speed permanente",
+          "bestAction": "Haz esto temprano para empezar a acumular multiplicadores a largo plazo."
+        },
+        {
+          "milestone": "Segundo Rebirth",
+          "rebirth": 2,
+          "levelRequired": 25,
+          "multiplier": "x2",
+          "whatResets": "El nivel actual de Speed se reinicia",
+          "whatYouGain": "Multiplicador de Speed permanente más fuerte",
+          "bestAction": "Recupera Speed caminando, con botones y treadmills."
+        },
+        {
+          "milestone": "Tercer Rebirth",
+          "rebirth": 3,
+          "levelRequired": 40,
+          "multiplier": "x2.5",
+          "whatResets": "El nivel actual de Speed se reinicia",
+          "whatYouGain": "Mejora de multiplicador permanente",
+          "bestAction": "Sigue farmeando Wins para que los Trails y Auras escalen con tu progreso de rebirth."
+        },
+        {
+          "milestone": "Aumento de multiplicador temprano",
+          "rebirth": 5,
+          "levelRequired": 75,
+          "multiplier": "x3.5",
+          "whatResets": "El nivel actual de Speed se reinicia",
+          "whatYouGain": "Recuperación de Speed notablemente más rápida",
+          "bestAction": "Usa recompensas de Speed gratis después del rebirth si quieres avanzar rápido de etapa."
+        },
+        {
+          "milestone": "Punto de inflexión de farming principal",
+          "rebirth": 10,
+          "levelRequired": 200,
+          "multiplier": "x10",
+          "whatResets": "El nivel actual de Speed se reinicia",
+          "whatYouGain": "Gran aumento de farming permanente",
+          "bestAction": "Empieza a enfocarte más en el farming en treadmills y en Trails o Auras de mayor costo."
+        },
+        {
+          "milestone": "Gran salto de multiplicador",
+          "rebirth": 13,
+          "levelRequired": 300,
+          "multiplier": "x10K",
+          "whatResets": "El nivel actual de Speed se reinicia",
+          "whatYouGain": "Enorme multiplicador de Speed permanente",
+          "bestAction": "Usa este punto para avanzar al farming en etapas más difíciles."
+        },
+        {
+          "milestone": "Rebirth de late-game",
+          "rebirth": 15,
+          "levelRequired": 380,
+          "multiplier": "x1M",
+          "whatResets": "El nivel de Speed actual se reinicia",
+          "whatYouGain": "Escalamiento de Speed permanente masivo",
+          "bestAction": "Farmea Wins de forma agresiva y mantén equipados tu mejor Trail y Aura."
+        },
+        {
+          "milestone": "Nivel de Rebirth máximo en la lista",
+          "rebirth": 20,
+          "levelRequired": 600,
+          "multiplier": "x100B",
+          "whatResets": "El nivel de Speed actual se reinicia",
+          "whatYouGain": "El nivel de multiplicador permanente más alto de la lista",
+          "bestAction": "Usa el multiplicador para farmear niveles avanzados, mejoras más fuertes y mayores recompensas de Wins."
+        }
+      ]
+    },
+    "keyboardEscapeTrailsAuras": {
+      "title": "Trails y Auras de +1 Speed Keyboard Escape",
+      "eyebrow": "Tier List de Equipamiento",
+      "subtitle": "Los Trails y Auras son equipamiento con multiplicador, no solo cosméticos. Equipa un Trail y un Aura a la vez, luego sigue mejorando en orden a medida que aumenten tus Wins.",
+      "intro": "Esta tier list clasifica los Trails y Auras más valiosos por fuerza de multiplicador, costo de desbloqueo e impacto en el farm. Los Trails dan el mayor impulso a largo plazo, mientras que las Auras añaden una segunda capa de multiplicador que se acumula bien con Rebirths y treadmills.",
+      "tiers": [
+        {
+          "tier": "S",
+          "label": "Mejor valor de progresión",
+          "summary": "Usa estos cuando quieras el mayor salto de farm o la opción de multiplicador gratuito más fuerte.",
+          "items": [
+            {
+              "name": "Infinity Trail",
+              "type": "Trail",
+              "multiplier": "5,000,000x",
+              "winsCost": "Solo Robux",
+              "robuxCost": "2,999 Robux",
+              "bestFor": "Farm premium de endgame y ascenso en la tabla de posiciones"
+            },
+            {
+              "name": "Godlike Trail",
+              "type": "Trail",
+              "multiplier": "100,000x",
+              "winsCost": "5,000,000,000 Wins",
+              "robuxCost": "2,600 Robux",
+              "bestFor": "El mejor Trail de endgame para jugadores free-to-play"
+            },
+            {
+              "name": "Supernova Trail",
+              "type": "Trail",
+              "multiplier": "10,000x",
+              "winsCost": "500,000,000 Wins",
+              "robuxCost": "2,289 Robux",
+              "bestFor": "Farm de fase avanzada antes del Godlike"
+            },
+            {
+              "name": "Void Trail",
+              "type": "Trail",
+              "multiplier": "1,000x",
+              "winsCost": "50,000,000 Wins",
+              "robuxCost": "1,989 Robux",
+              "bestFor": "Primer gran salto de Trail en endgame"
+            },
+            {
+              "name": "Fire Aura",
+              "type": "Aura",
+              "multiplier": "3x",
+              "winsCost": "25,000,000 Victorias",
+              "robuxCost": "649 Robux",
+              "bestFor": "El aura estándar más fuerte"
+            },
+            {
+              "name": "Aura de Medalla",
+              "type": "Aura",
+              "multiplier": "2x",
+              "winsCost": "Misión de Medalla Gratis",
+              "robuxCost": "Gratis",
+              "bestFor": "La mejor aura gratis para jugadores nuevos"
+            }
+          ]
+        },
+        {
+          "tier": "A",
+          "label": "Mejoras fuertes para el juego medio y tardío",
+          "summary": "Estas son mejoras eficientes una vez que los trails básicos dejen de ayudarte a superar etapas.",
+          "items": [
+            {
+              "name": "Trail Cósmico",
+              "type": "Trail",
+              "multiplier": "100x",
+              "winsCost": "5,000,000 Victorias",
+              "robuxCost": "1,599 Robux",
+              "bestFor": "Primera gran barrera de trail después del Trail Arcoíris"
+            },
+            {
+              "name": "Trail Galáctico",
+              "type": "Trail",
+              "multiplier": "10x",
+              "winsCost": "Solo Robux",
+              "robuxCost": "389 Robux",
+              "bestFor": "Mejora económica de trail por Robux"
+            },
+            {
+              "name": "Trail Arcoíris",
+              "type": "Trail",
+              "multiplier": "5x",
+              "winsCost": "100,000 Victorias",
+              "robuxCost": "249 Robux",
+              "bestFor": "El mejor trail visual inicial con un valor de velocidad útil"
+            },
+            {
+              "name": "Aura de Agua",
+              "type": "Aura",
+              "multiplier": "2x",
+              "winsCost": "10,000,000 Victorias",
+              "robuxCost": "489 Robux",
+              "bestFor": "Aura sólida antes del Aura de Fuego"
+            },
+            {
+              "name": "Aura de Viento",
+              "type": "Aura",
+              "multiplier": "1.5x",
+              "winsCost": "5,000,000 Victorias",
+              "robuxCost": "249 Robux",
+              "bestFor": "Paso de escalado de aura más barato"
+            }
+          ]
+        },
+        {
+          "tier": "B",
+          "label": "Selecciones de farmeo iniciales y tempranas",
+          "summary": "Compra estos en orden para nunca quedarte atascado farmeando Victorias con un multiplicador débil.",
+          "items": [
+            {
+              "name": "Trail rojo",
+              "type": "Trail",
+              "multiplier": "4x",
+              "winsCost": "25,000 Victorias",
+              "robuxCost": "139 Robux",
+              "bestFor": "Superación de etapas iniciales"
+            },
+            {
+              "name": "Trail morado",
+              "type": "Trail",
+              "multiplier": "3x",
+              "winsCost": "5,000 Victorias",
+              "robuxCost": "59 Robux",
+              "bestFor": "Mejora rápida inicial después del azul"
+            },
+            {
+              "name": "Trail azul",
+              "type": "Trail",
+              "multiplier": "2x",
+              "winsCost": "1,500 Victorias",
+              "robuxCost": "29 Robux",
+              "bestFor": "La mejor primera mejora para dar el salto sobre el verde"
+            },
+            {
+              "name": "Trail verde",
+              "type": "Trail",
+              "multiplier": "1.5x",
+              "winsCost": "500 Victorias",
+              "robuxCost": "19 Robux",
+              "bestFor": "Primer trail para cuentas completamente nuevas"
+            },
+            {
+              "name": "Aura resplandeciente",
+              "type": "Aura",
+              "multiplier": "1.2x",
+              "winsCost": "1,000,000 Victorias",
+              "robuxCost": "59 Robux",
+              "bestFor": "Primer paso de aura de pago"
+            }
+          ]
+        }
+      ]
+    },
+    "keyboardEscapeTreadmills": {
+      "title": "Treadmills de +1 Speed Keyboard Escape",
+      "eyebrow": "Farmeo AFK de Speed",
+      "subtitle": "Los treadmills le permiten a tu personaje farmear Speed mientras se queda quieto. Cuanto mayor sea el multiplicador del treadmill, más rápido alcanzarás las barreras de nivel, los requisitos de rebirth y mundos más difíciles.",
+      "intro": "Usa la cinta de correr de chocolate gratis para empezar, luego mejórala según qué tan seguido juegues. La de diamante es el salto con mejor relación calidad-precio, la de caramelo es para sesiones largas y la de administrador es la cinta de correr más rápida disponible actualmente para farmear Velocidad.",
+      "items": [
+        {
+          "name": "Correr normal",
+          "multiplier": "Movimiento base 1x",
+          "price": "Gratis",
+          "bestFor": "Aprender rutas y superar las primeras etapas",
+          "pros": [
+            "No requiere compra",
+            "Desarrolla el control básico de la ruta"
+          ],
+          "cons": [
+            "Solo movimiento manual",
+            "Lento para farmear rebirths"
+          ],
+          "recommendation": "Úsalo solo mientras aprendes las etapas o consigues tus primeras victorias."
+        },
+        {
+          "name": "Cinta de correr de chocolate",
+          "multiplier": "x1",
+          "price": "Gratis",
+          "bestFor": "Primer sistema de entrenamiento estilo AFK",
+          "pros": [
+            "Cinta de correr inicial gratis",
+            "Te permite ganar Velocidad sin tener que recorrer rutas"
+          ],
+          "cons": [
+            "Sin ventaja de multiplicador sobre la ganancia base"
+          ],
+          "recommendation": "Úsala de inmediato y luego reemplázala cuando puedas permitirte una cinta de correr de pago."
+        },
+        {
+          "name": "Cinta de correr dorada",
+          "multiplier": "x3",
+          "price": "59 Robux",
+          "bestFor": "Primera compra pequeña",
+          "pros": [
+            "La cinta de correr de pago más barata",
+            "Triplica la ganancia de Velocidad"
+          ],
+          "cons": [
+            "Superada rápidamente por la de diamante"
+          ],
+          "recommendation": "Ideal para quienes gastan poco y quieren una mejora inicial sencilla."
+        },
+        {
+          "name": "Cinta de correr de diamante",
+          "multiplier": "x9",
+          "price": "259 Robux",
+          "bestFor": "La cinta de correr con mejor relación calidad-precio",
+          "pros": [
+            "Un salto claro de x9 sobre la ganancia base",
+            "Excelente equilibrio entre precio y rendimiento"
+          ],
+          "cons": [
+            "Aún muy por debajo de la de caramelo y la de administrador"
+          ],
+          "recommendation": "La mejor compra para la mayoría de los jugadores habituales."
+        },
+        {
+          "name": "Cinta de correr de caramelo",
+          "multiplier": "x25",
+          "price": "749 Robux",
+          "bestFor": "Para grinders dedicados",
+          "pros": [
+            "Gran mejora de x25 para farmear",
+            "Funciona bien con rebirths, trails y auras"
+          ],
+          "cons": [
+            "Cuesta mucho más que Diamante"
+          ],
+          "recommendation": "Elige esto si farmeas durante sesiones largas y quieres ciclos de rebirth más rápidos."
+        },
+        {
+          "name": "Cinta de correr de Admin",
+          "multiplier": "x100",
+          "price": "1,599 Robux",
+          "bestFor": "Farmeo de Velocidad de endgame",
+          "pros": [
+            "El multiplicador de cinta de correr más fuerte",
+            "La ruta más rápida para los requisitos altos de rebirth"
+          ],
+          "cons": [
+            "El costo de Robux más alto"
+          ],
+          "recommendation": "La mejor opción premium cuando ganar la máxima Velocidad importa más que el costo."
+        }
+      ]
+    },
+    "keyboardEscapeStages": {
+      "title": "Guía de niveles de +1 Speed Keyboard Escape",
+      "eyebrow": "Guía de niveles",
+      "subtitle": "La velocidad ayuda, pero el ritmo y recordar la ruta deciden la mayoría de los niveles difíciles. Usa estas notas de nivel para evitar reinicios y farmear Wins de manera más constante.",
+      "intro": "La regla básica es simple: cada paso te da Velocidad, pero un paso en falso te envía de vuelta. Primero acumula suficiente Velocidad, luego recorre cada nivel con un plan de ruta claro en lugar de correr a ciegas.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Prepárate antes de intentar los niveles difíciles",
+          "world": "Todos los mundos",
+          "stageFocus": "Antes de entrar a nuevas cadenas de niveles",
+          "routeTip": "Acumula rebirths, tu mejor trail, tu mejor aura y Velocidad de cinta de correr antes de avanzar a mundos más difíciles.",
+          "resetRisk": "Entrar con nivel bajo hace que los saltos simples se sientan inconsistentes y desperdicia intentos repetidos.",
+          "rewardFocus": "Completa primero los niveles seguros más cortos para acumular Wins para mejores botones, trails y auras."
+        },
+        {
+          "step": 2,
+          "title": "Usa velocidad controlada en el parkour inicial",
+          "world": "Mundo 1",
+          "stageFocus": "Nivel 4",
+          "routeTip": "Alrededor de 100 de Velocidad, el parkour se puede omitir con un salto fuerte. A una velocidad muy alta, corre recto en lugar de corregir demasiado los saltos.",
+          "resetRisk": "Demasiada velocidad puede hacer que los saltos cortos sean más difíciles de controlar.",
+          "rewardFocus": "Usa este nivel para practicar el control de velocidad antes de los niveles de ritmo."
+        },
+        {
+          "step": 3,
+          "title": "Espera a la señal del puente",
+          "world": "Mundo 1",
+          "stageFocus": "Nivel 5",
+          "routeTip": "No te apresures en cuanto empiece la cuenta regresiva. Comienza cuando aparezca la señal de espera en pantalla para tener una mejor oportunidad de cruzar.",
+          "resetRisk": "Empezar demasiado pronto deja menos tiempo para terminar el puente limpiamente.",
+          "rewardFocus": "Cruzar el puente limpiamente mantiene constante tu ruta de Wins."
+        },
+        {
+          "step": 4,
+          "title": "Calcula el tiempo del tsunami de chocolate",
+          "world": "Mundo 1",
+          "stageFocus": "Niveles 6 y 14",
+          "routeTip": "Para el Nivel 6, espera hasta que la ola esté justo frente a ti, luego muévete después de que pase. Para el Nivel 14, avanza tan pronto como aparezca la ola más rápida.",
+          "resetRisk": "Moverse demasiado pronto hace que la ola te alcance; dudar en el Nivel 14 te hace perder la ventana de tiempo.",
+          "rewardFocus": "El Nivel 6 también es útil para farmear repetidamente una vez que puedas completarlo de forma segura."
+        },
+        {
+          "step": 5,
+          "title": "Usa el atajo del lanzador",
+          "world": "Mundo 1",
+          "stageFocus": "Etapa 11",
+          "routeTip": "En el punto de lanzamiento, mantén presionado hacia adelante y no saltes. La plataforma te lanzará mucho más rápido que ir de una en una.",
+          "resetRisk": "Saltar en el momento equivocado puede arruinar el ángulo del atajo.",
+          "rewardFocus": "Este es uno de los atajos más rápidos del Mundo 1 para completarlo repetidamente."
+        },
+        {
+          "step": 6,
+          "title": "Memoriza la ruta del laberinto",
+          "world": "Mundo 1",
+          "stageFocus": "Etapa 12",
+          "routeTip": "Gira a la derecha en la primera, sigue el camino, gira a la derecha en el primer cruce y luego vuelve a girar a la derecha.",
+          "resetRisk": "Adivinar el camino en el laberinto hace perder tiempo y puede hacerte dar vueltas.",
+          "rewardFocus": "Memorizar la ruta hace que completar el final del Mundo 1 sea mucho más estable."
+        },
+        {
+          "step": 7,
+          "title": "Mantén el impulso a través de los peligros del Mundo 2",
+          "world": "Mundo 2",
+          "stageFocus": "Etapas 2, 7 y 8",
+          "routeTip": "En la Etapa 2, comienza justo después de que se abra la primera puerta. En la Etapa 7, no dejes de moverte mientras caen las arañas. En la Etapa 8, corre con firmeza a través de las ráfagas de los ventiladores.",
+          "resetRisk": "Detenerse frente a puertas, arañas o ventiladores les da tiempo a los peligros para sacarte de la ruta.",
+          "rewardFocus": "Estas etapas premian el movimiento constante más que los cambios bruscos de dirección."
+        },
+        {
+          "step": 8,
+          "title": "Sigue el patrón del laberinto del osito",
+          "world": "Mundo 2",
+          "stageFocus": "Etapa 9",
+          "routeTip": "Usa la ruta Izquierda, Derecha, Derecha, Derecha, Izquierda para salir del laberinto mientras el jefe osito de peluche te persigue.",
+          "resetRisk": "Los giros equivocados permiten que el jefe te alcance rápidamente.",
+          "rewardFocus": "Aprender este camino abre la ruta hacia las últimas etapas del Mundo 2."
+        },
+        {
+          "step": 9,
+          "title": "Entra en la etapa final del Mundo 2 con suficiente Speed",
+          "world": "Mundo 2",
+          "stageFocus": "Etapa 15",
+          "routeTip": "La Etapa 15 combina escaleras, puertas, saltos largos y presión de persecución. El Nivel 550+ otorga suficiente Speed para superar los huecos con mayor comodidad.",
+          "resetRisk": "Tener poca Speed hace que sea mucho más difícil recuperarse de la cadena de obstáculos mixtos.",
+          "rewardFocus": "Completar esta etapa otorga 200,000,000 Wins."
+        }
+      ]
+    },
+    "keyboardEscapeFreeRewards": {
+      "title": "Recompensas gratuitas de +1 Speed Keyboard Escape",
+      "eyebrow": "Recompensas gratuitas",
+      "subtitle": "Reclama las recompensas de multiplicadores gratuitos antes de las sesiones largas de farming, y guarda las recompensas de Speed fija para después de los primeros rebirths para que no se reinicien.",
+      "intro": "Estas recompensas ayudan a los nuevos jugadores a empezar más rápido sin gastar Robux. Medal Aura añade un multiplicador de aura gratuito, mientras que el regalo de grupo y el código social otorgan potenciadores de Speed fija que es mejor reclamar después de tus primeros rebirths.",
+      "items": [
+        {
+          "task": "Reclama la Medal Aura",
+          "reward": "Medal Aura gratuita con un multiplicador de Speed de 2x",
+          "steps": [
+            "Descarga Medal e inicia sesión.",
+            "Abre Cuentas conectadas y vincula tu cuenta de Roblox.",
+            "Ejecuta Medal en segundo plano mientras juegas a +1 Speed Keyboard Escape.",
+            "Juega durante al menos 15 segundos, presiona F8 para guardar un clip y luego súbelo públicamente con la etiqueta del juego +1 Speed Keyboard Escape.",
+            "Regresa al juego, abre el Inventario, ve a Auras y equipa la Medal Aura."
+          ],
+          "bestTimeToClaim": "Reclámala pronto, antes de sesiones largas de farming en cintas de correr o de farmear etapas.",
+          "whyItMatters": "Te da un multiplicador de aura gratis sin gastar Wins o Robux."
+        },
+        {
+          "task": "Canjea el Código Social",
+          "reward": "+15,000 de Speed",
+          "steps": [
+            "Únete al Discord oficial de la comunidad.",
+            "Abre el canal social-code.",
+            "Vincula Discord con tu cuenta de Roblox si se te solicita.",
+            "Presiona Get Code para generar tu código de un solo uso.",
+            "Abre el botón de Code en el juego, pega el código y canjéalo."
+          ],
+          "bestTimeToClaim": "Úsalo después del Rebirth 2 para que el boost de Speed base no se borre con los primeros reinicios.",
+          "whyItMatters": "Es uno de los boosts de Speed gratuitos más rápidos para una cuenta nueva."
+        },
+        {
+          "task": "Reclama el Regalo de Grupo de Roblox",
+          "reward": "+15,000 de Speed",
+          "steps": [
+            "Abre la página del juego en Roblox y dale \"me gusta\" a la experiencia.",
+            "Únete a la comunidad oficial de Roblox vinculada al juego.",
+            "Regresa al lobby.",
+            "Presiona el botón de regalo GRATIS o abre el cofre del tesoro del lobby.",
+            "Usa Verify and Claim para recibir la recompensa."
+          ],
+          "bestTimeToClaim": "Úsalo después del Rebirth 2 para aprovecharlo mejor.",
+          "whyItMatters": "Te da otro boost rápido de Speed base sin necesidad de Robux."
+        },
+        {
+          "task": "Usa el Boost de 2x Speed Gratis",
+          "reward": "10 minutos de ganancia de Speed duplicada",
+          "steps": [
+            "Abre el icono de la tienda en el lado izquierdo de la pantalla.",
+            "Mira el anuncio corto.",
+            "Activa el boost de 2x Speed.",
+            "Quédate en tu mejor treadmill mientras el boost esté activo."
+          ],
+          "bestTimeToClaim": "Úsalo durante una sesión enfocada de farming en treadmill.",
+          "whyItMatters": "El temporizador es corto, así que combinarlo con un treadmill da el mejor resultado."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Preguntas",
+    "titleHighlight": "Frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre +1 Speed Keyboard Escape",
+    "questions": [
+      {
+        "question": "¿Qué son los códigos de +1 Speed Keyboard Escape?",
+        "answer": "Los códigos de +1 Speed Keyboard Escape son recompensas gratuitas canjeables que dan boosts de Speed base. Abre el botón de Code en la parte superior izquierda de la pantalla, pega un código activo y presiona OK para reclamar Speed que puedes usar para avanzar etapas o reconstruir tu progreso tras un rebirth."
+      },
+      {
+        "question": "¿Cómo obtengo más Speed en +1 Speed Keyboard Escape?",
+        "answer": "En +1 Speed Keyboard Escape, cada paso te da +1 de Speed por defecto. Farmea más rápido parándote en los Number Buttons, usando treadmills, equipando Trails y Auras, y acumulando multiplicadores de Rebirth para que cada nueva sesión crezca más rápido que la anterior."
+      },
+      {
+        "question": "¿Cuándo debo hacer rebirth en +1 Speed Keyboard Escape?",
+        "answer": "Haz rebirth en +1 Speed Keyboard Escape tan pronto como el requisito para el siguiente nivel empiece a ser lento. Hacer rebirth reinicia tu nivel de Speed actual pero otorga un multiplicador permanente, lo que hace que caminar, usar el treadmill y farmear etapas sea notablemente más rápido en el futuro."
+      },
+      {
+        "question": "¿Para qué sirven los treadmills en +1 Speed Keyboard Escape?",
+        "answer": "Los treadmills en +1 Speed Keyboard Escape permiten que tu personaje farmee Speed mientras está quieto. El treadmill de Chocolate gratuito da un multiplicador x1, mientras que los de pago escalan hasta x100, lo que los hace ideales para el farming de Speed AFK entre carreras activas por las etapas."
+      },
+      {
+        "question": "¿Cómo funcionan los Trails y Auras en +1 Speed Keyboard Escape?",
+        "answer": "Los Trails y Auras en +1 Speed Keyboard Escape son equipamiento multiplicador que se compra con Wins. Equipa un Trail y un Aura a la vez y sigue mejorándolos a medida que aumenten tus Wins, ya que ambos se acumulan con los multiplicadores de treadmill y Rebirth para obtener ganancias de Speed compuestas."
+      },
+      {
+        "question": "¿Es +1 Speed Keyboard Escape gratis para jugar?",
+        "answer": "Sí. +1 Speed Keyboard Escape es un obby de Roblox gratuito. Las compras opcionales con Robux, como las treadmills premium y los Trails, aceleran el progreso, pero toda la jugabilidad principal, los codes, las recompensas sociales y la Medal Aura se pueden desbloquear sin gastar Robux."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para correr en +1 Speed Keyboard Escape?",
+    "description": "¡Únete a la comunidad de SecretVerse Studio en Discord para obtener los últimos codes, actualizaciones y consejos de speedrun!",
+    "joinCommunity": "Unirse a Discord",
+    "joinGame": "Jugar en Roblox"
+  },
+  "footer": {
+    "title": "Wiki de +1 Speed Keyboard Escape",
+    "description": "Tu centro de recursos completo para codes de Roblox de +1 Speed Keyboard Escape, guías para principiantes, speed farming, rebirth, treadmills, multipliers, trails, auras, stages y eventos.",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "legal": "Legal",
+    "discord": "Discord",
+    "robloxGame": "Jugar en Roblox",
+    "robloxGroup": "Grupo de Roblox",
+    "about": "Acerca de",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Wiki de +1 Speed Keyboard Escape. No afiliado con SecretVerse Studio ni con los desarrolladores de +1 Speed Keyboard Escape.",
+    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+  },
+  "pages": {
+    "codes": {
+      "title": "Codes de +1 Speed Keyboard Escape",
+      "description": "Los últimos codes activos de +1 Speed Keyboard Escape para obtener aumentos de speed gratis, además de los pasos para canjearlos y las recompensas de codes sociales que te ayudan a saltarte el progreso inicial.",
+      "metaTitle": "Codes de +1 Speed Keyboard Escape - Aumentos de Speed Gratis (Julio 2026)",
+      "metaDescription": "Reclama cada code activo de +1 Speed Keyboard Escape para obtener aumentos de speed gratis. Actualizado diariamente con codes verificados, pasos de canje y recompensas sociales de Discord.",
+      "categoryLabel": "CANJEAR CODES",
+      "whatIs": "¿Qué son los Codes?",
+      "whatIsDescription": "Los codes de +1 Speed Keyboard Escape son recompensas gratuitas lanzadas por los desarrolladores de SecretVerse Studio. Cada code otorga un aumento de speed directo, lo que te permite evitar el progreso inicial y superar stages de teclado más difíciles justo después de un rebirth.",
+      "why": "¿Por qué usar codes?",
+      "whySteps": {
+        "step1Title": "Speed Directo Instantáneo",
+        "step1Description": "Cada code activo añade un bonus de speed directo sobre tu multiplier, dándote una ventaja inicial en el momento en que apareces.",
+        "step2Title": "Recuperación de Rebirth más Rápida",
+        "step2Description": "Guarda las recompensas de speed directo para justo después de un rebirth para saltarte los stages iniciales lentos y recuperar el ritmo rápidamente.",
+        "step3Title": "Recompensas Sociales Gratis",
+        "step3Description": "Únete al Discord oficial y al grupo para generar un code social personal y reclamar speed gratis adicional sin costo alguno."
+      },
+      "featured": "Codes Destacados",
+      "all": "Todos los Codes"
+    },
+    "guide": {
+      "title": "Guía de +1 Speed Keyboard Escape",
+      "description": "Guías completas de +1 Speed Keyboard Escape que cubren los conceptos básicos para principiantes, speed farming, rutas de progresión y estrategias F2P para el obby de teclado de Roblox.",
+      "metaTitle": "Guía de +1 Speed Keyboard Escape - Estrategias de Principiante a Avanzado",
+      "metaDescription": "Domina +1 Speed Keyboard Escape con guías completas sobre consejos para principiantes, speed farming, subida de nivel más rápida y estrategias de progresión F2P.",
+      "categoryLabel": "GUÍAS DEL JUEGO",
+      "whatIs": "¿Qué son las guías?",
+      "whatIsDescription": "Guías completas que cubren el ciclo principal de Speed, Wins y rebirth, desde tus primeros saltos en el teclado hasta estrategias avanzadas de acumulación de multiplicadores y farming en treadmills.",
+      "why": "¿Por qué leer guías?",
+      "whySteps": {
+        "step1Title": "Aprende las mecánicas principales",
+        "step1Description": "Entiende el ciclo de +1 de velocidad por paso, los wins y el sistema de rebirth para evitar errores comunes de principiantes.",
+        "step2Title": "Progresión rápida",
+        "step2Description": "Sigue rutas probadas para superar las etapas de teclado rápidamente y acumular multiplicadores de velocidad de la forma correcta.",
+        "step3Title": "Estrategias para F2P",
+        "step3Description": "Descubre los mejores métodos gratuitos para subir de nivel, farmear velocidad y progresar sin gastar Robux."
+      },
+      "featured": "Guías destacadas",
+      "all": "Todas las guías"
+    },
+    "stages": {
+      "title": "Etapas de +1 Speed Keyboard Escape",
+      "description": "Supera cada etapa de +1 Speed Keyboard Escape con guías de nivel detalladas, diseños y consejos para las etapas 12, 15 y el camino hacia la etapa 120.",
+      "metaTitle": "Etapas de +1 Speed Keyboard Escape - Guías de nivel y recorridos",
+      "metaDescription": "Supera cada etapa de +1 Speed Keyboard Escape con guías para las etapas 10-15 y superiores, incluyendo diseños, saltos y estrategias finales.",
+      "categoryLabel": "GUÍAS DE ETAPAS",
+      "whatIs": "¿Qué son las etapas?",
+      "whatIsDescription": "Las etapas son los niveles de obby con temática de teclado que superas paso a paso. Cada etapa añade obstáculos de plataformas y huecos que escalan con tu velocidad, y terminarlas te otorga Wins para tu próximo rebirth.",
+      "why": "¿Por qué usar guías de etapas?",
+      "whySteps": {
+        "step1Title": "Supera niveles difíciles",
+        "step1Description": "Aprende los saltos y rutas exactos para etapas complicadas como la 12 y la 15 que bloquean a los nuevos jugadores.",
+        "step2Title": "Planifica tu ruta",
+        "step2Description": "Mira el diseño completo de la etapa para elegir el camino más seguro y evitar que un solo salto en falso te haga retroceder.",
+        "step3Title": "Sigue tu progreso",
+        "step3Description": "Sigue la hoja de ruta de etapas desde el nivel 1 hasta la etapa 120 y conoce exactamente qué viene después."
+      },
+      "featured": "Etapas destacadas",
+      "all": "Todas las etapas"
+    },
+    "maze": {
+      "title": "Laberinto de +1 Speed Keyboard Escape",
+      "description": "Navega por cada laberinto y ruta de etapa de +1 Speed Keyboard Escape con mapas y caminos paso a paso para la etapa 12, 15 y los laberintos del mundo 2.",
+      "metaTitle": "Laberinto de +1 Speed Keyboard Escape - Mapas y guías de rutas",
+      "metaDescription": "Encuentra tu camino a través de los laberintos de +1 Speed Keyboard Escape con mapas de rutas para la etapa 12, etapa 15 y mundo 2, además de direcciones paso a paso.",
+      "categoryLabel": "RUTAS DE LABERINTOS",
+      "whatIs": "¿Qué son los laberintos?",
+      "whatIsDescription": "Los laberintos son secciones de plataformas de teclado ramificadas dentro de ciertas etapas donde la ruta correcta está oculta. Conocer el camino correcto ahorra tiempo y evita retroceder por huecos peligrosos.",
+      "why": "¿Por qué usar rutas de laberintos?",
+      "whySteps": {
+        "step1Title": "No te pierdas nunca",
+        "step1Description": "Sigue la ruta verificada de cada laberinto para saber siempre qué plataforma tomar a continuación.",
+        "step2Title": "Ahorra tiempo",
+        "step2Description": "Evita callejones sin salida y giros equivocados que te cuestan velocidad y wins durante una partida.",
+        "step3Title": "Supera laberintos difíciles",
+        "step3Description": "Obtén instrucciones paso a paso para los laberintos más difíciles del nivel 12, nivel 15 y el mundo 2."
+      },
+      "featured": "Laberintos destacados",
+      "all": "Todos los laberintos"
+    },
+    "worlds": {
+      "title": "Mundos de +1 Speed Keyboard Escape",
+      "description": "Explora cada mundo de +1 Speed Keyboard Escape con guías de mapas para los mundos 1, 2 y 3, incluyendo rutas de niveles y estrategias específicas de cada mundo.",
+      "metaTitle": "Mundos de +1 Speed Keyboard Escape - Guías de mapas y niveles",
+      "metaDescription": "Descubre cada mundo de +1 Speed Keyboard Escape, incluyendo los mundos 1, 2 y 3 con mapas, rutas de niveles y consejos de progresión específicos de cada mundo.",
+      "categoryLabel": "MAPAS DE MUNDOS",
+      "whatIs": "¿Qué son los mundos?",
+      "whatIsDescription": "Los mundos son los grandes mapas temáticos (Caramelo, Chocolate, Ciudad del Futuro y más), cada uno con sus propios niveles, laberintos, treadmills y metas por conquistar.",
+      "why": "¿Por qué explorar las guías de mundos?",
+      "whySteps": {
+        "step1Title": "Conoce cada mapa",
+        "step1Description": "Aprende el diseño y la temática de los mundos 1, 2 y 3 para planificar tu ruta antes de correr.",
+        "step2Title": "Encuentra niveles clave",
+        "step2Description": "Localiza rápidamente los niveles importantes, treadmills y multipliers ocultos en cada mundo.",
+        "step3Title": "Tácticas específicas por mundo",
+        "step3Description": "Aplica la estrategia adecuada para los peligros y el estilo de plataformas únicos de cada mundo."
+      },
+      "featured": "Mundos destacados",
+      "all": "Todos los mundos"
+    },
+    "rebirth": {
+      "title": "Rebirth en +1 Speed Keyboard Escape",
+      "description": "Domina el sistema de rebirth de +1 Speed Keyboard Escape con guías sobre condiciones de rebirth, tiempos, niveles máximos de rebirth y acumulación de multipliers.",
+      "metaTitle": "Rebirth en +1 Speed Keyboard Escape - Guía de nivel máximo y multipliers",
+      "metaDescription": "Aprende cuándo y cómo hacer rebirth en +1 Speed Keyboard Escape, niveles máximos de rebirth, bonos de multipliers y la ruta más rápida hacia la velocidad máxima.",
+      "categoryLabel": "GUÍA DE REBIRTH",
+      "whatIs": "¿Qué es el Rebirth?",
+      "whatIsDescription": "El rebirth reinicia tu partida actual a cambio de un multiplier de velocidad permanente y una insignia de rebirth. Cada rebirth multiplica la velocidad que ganas, haciendo que las futuras carreras superen por mucho a la anterior.",
+      "why": "¿Por qué hacer rebirth?",
+      "whySteps": {
+        "step1Title": "Acumula Multipliers",
+        "step1Description": "Cada rebirth añade un multiplier permanente, por lo que tu velocidad aumenta más rápido en cada carrera posterior.",
+        "step2Title": "Alcanza la velocidad máxima",
+        "step2Description": "Planifica tu camino hacia el rebirth máximo y desbloquea los bonos de velocidad más altos del juego.",
+        "step3Title": "Elige el momento adecuado",
+        "step3Description": "Conoce exactamente cuándo hacer rebirth para obtener el mejor beneficio en lugar de reiniciar demasiado pronto o demasiado tarde."
+      },
+      "featured": "Guías de rebirth destacadas",
+      "all": "Todas las guías de rebirth"
+    },
+    "items": {
+      "title": "Objetos de +1 Speed Keyboard Escape",
+      "description": "Guía completa de objetos y tienda de +1 Speed Keyboard Escape que cubre medallas, misiones, mejoras de la tienda y los mejores objetos para comprar según tu estilo de juego.",
+      "metaTitle": "Objetos de +1 Speed Keyboard Escape - Guía de tienda, medallas y misiones",
+      "metaDescription": "Explora cada objeto, mejora de tienda y misión de medalla de +1 Speed Keyboard Escape, junto con prioridades de compra para gastar tus recompensas sabiamente.",
+      "categoryLabel": "OBJETOS Y TIENDA",
+      "whatIs": "¿Qué son los objetos?",
+      "whatIsDescription": "Los objetos abarcan todo lo que hay en la tienda y en las rutas de recompensas (cintas de correr, Trails, Auras, medallas y mejoras) que potencian tu velocidad, multiplicadores y cosméticos a medida que avanzas.",
+      "why": "¿Por qué conocer los objetos?",
+      "whySteps": {
+        "step1Title": "Gasta sabiamente",
+        "step1Description": "Conoce qué mejoras y objetos de la tienda ofrecen el mejor valor antes de gastar tus recompensas ganadas con tanto esfuerzo.",
+        "step2Title": "Completa misiones de medallas",
+        "step2Description": "Haz un seguimiento de las misiones de medallas y desbloquea los objetos y bonificaciones adicionales vinculados a cada una.",
+        "step3Title": "Crea tu equipamiento",
+        "step3Description": "Combina Trails, Auras y cintas de correr en un equipamiento que se adapte a tu velocidad y estrategia de rebirth."
+      },
+      "featured": "Objetos destacados",
+      "all": "Todos los objetos"
+    }
   }
 }
