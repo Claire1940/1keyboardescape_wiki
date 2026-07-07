@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guía",
+    "stages": "Niveles",
+    "maze": "Laberinto",
+    "worlds": "Mundos",
+    "rebirth": "Renacimiento",
+    "items": "Objetos"
+  }
+}

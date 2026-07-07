@@ -10,7 +10,15 @@
       "twitterDescription": "Find +1 Speed Keyboard Escape codes, Roblox beginner tips, rebirth help, and ASMR keyboard obby guides."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "stages": "Stages",
+    "maze": "Maze",
+    "worlds": "Worlds",
+    "rebirth": "Rebirth",
+    "items": "Items"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -507,8 +515,14 @@
           "multiplier": "1x base movement",
           "price": "Free",
           "bestFor": "Learning routes and clearing early stages",
-          "pros": ["No purchase needed", "Builds basic route control"],
-          "cons": ["Manual movement only", "Slow for rebirth farming"],
+          "pros": [
+            "No purchase needed",
+            "Builds basic route control"
+          ],
+          "cons": [
+            "Manual movement only",
+            "Slow for rebirth farming"
+          ],
           "recommendation": "Use only while learning stages or collecting early Wins."
         },
         {
@@ -516,8 +530,13 @@
           "multiplier": "x1",
           "price": "Free",
           "bestFor": "First AFK-style training setup",
-          "pros": ["Free starter treadmill", "Lets you gain Speed without route running"],
-          "cons": ["No multiplier advantage over base gain"],
+          "pros": [
+            "Free starter treadmill",
+            "Lets you gain Speed without route running"
+          ],
+          "cons": [
+            "No multiplier advantage over base gain"
+          ],
           "recommendation": "Use immediately, then replace when you can afford a paid treadmill."
         },
         {
@@ -525,8 +544,13 @@
           "multiplier": "x3",
           "price": "59 Robux",
           "bestFor": "Small first purchase",
-          "pros": ["Cheapest paid treadmill", "Triples Speed gain"],
-          "cons": ["Outscaled quickly by Diamond"],
+          "pros": [
+            "Cheapest paid treadmill",
+            "Triples Speed gain"
+          ],
+          "cons": [
+            "Outscaled quickly by Diamond"
+          ],
           "recommendation": "Good for light spenders who want a simple early boost."
         },
         {
@@ -534,8 +558,13 @@
           "multiplier": "x9",
           "price": "259 Robux",
           "bestFor": "Best value treadmill",
-          "pros": ["Clear x9 jump over base gain", "Strong balance of price and performance"],
-          "cons": ["Still far below Candy and Admin"],
+          "pros": [
+            "Clear x9 jump over base gain",
+            "Strong balance of price and performance"
+          ],
+          "cons": [
+            "Still far below Candy and Admin"
+          ],
           "recommendation": "Best buy for most regular players."
         },
         {
@@ -543,8 +572,13 @@
           "multiplier": "x25",
           "price": "749 Robux",
           "bestFor": "Dedicated grinders",
-          "pros": ["Large x25 farming boost", "Works well with rebirths, trails, and auras"],
-          "cons": ["Costs much more than Diamond"],
+          "pros": [
+            "Large x25 farming boost",
+            "Works well with rebirths, trails, and auras"
+          ],
+          "cons": [
+            "Costs much more than Diamond"
+          ],
           "recommendation": "Pick this if you farm for long sessions and want faster rebirth loops."
         },
         {
@@ -552,8 +586,13 @@
           "multiplier": "x100",
           "price": "1,599 Robux",
           "bestFor": "Endgame Speed farming",
-          "pros": ["Strongest treadmill multiplier", "Fastest route to high rebirth requirements"],
-          "cons": ["Highest Robux cost"],
+          "pros": [
+            "Strongest treadmill multiplier",
+            "Fastest route to high rebirth requirements"
+          ],
+          "cons": [
+            "Highest Robux cost"
+          ],
           "recommendation": "Best premium option when maximum Speed gain matters more than cost."
         }
       ]
@@ -761,125 +800,145 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "+1 Speed Keyboard Escape Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced speed farming and rebirth strategies for +1 Speed Keyboard Escape on Roblox.",
-      "metaTitle": "+1 Speed Keyboard Escape Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete +1 Speed Keyboard Escape guides covering beginner tips, codes, speed farming, rebirth, treadmills, and expert tactics for the Roblox speed obby.",
+    "codes": {
+      "title": "+1 Speed Keyboard Escape Codes",
+      "description": "Latest working +1 Speed Keyboard Escape codes for free flat speed boosts, plus the redeem steps and social code rewards that help you skip the early grind.",
+      "metaTitle": "+1 Speed Keyboard Escape Codes - Free Speed Boosts (July 2026)",
+      "metaDescription": "Claim every active +1 Speed Keyboard Escape code for free speed boosts. Updated daily with verified codes, redeem steps, and Discord social rewards.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What are Codes?",
+      "whatIsDescription": "+1 Speed Keyboard Escape codes are free rewards released by the SecretVerse Studio developers. Each code grants a flat speed boost, letting you bypass early grinding and clear tougher keyboard stages right after a rebirth.",
+      "why": "Why use codes?",
+      "whySteps": {
+        "step1Title": "Instant Flat Speed",
+        "step1Description": "Every active code adds a flat speed bonus on top of your multiplier, giving you a head start the moment you spawn.",
+        "step2Title": "Faster Rebirth Recovery",
+        "step2Description": "Save flat speed rewards for right after a rebirth to skip the slow early stages and rebuild momentum quickly.",
+        "step3Title": "Free Social Rewards",
+        "step3Description": "Join the official Discord and group to generate a personal social code and claim extra free speed at no cost."
+      },
+      "featured": "Featured Codes",
+      "all": "All Codes"
+    },
+    "guide": {
+      "title": "+1 Speed Keyboard Escape Guide",
+      "description": "Complete +1 Speed Keyboard Escape guides covering beginner basics, speed farming, progression paths, and F2P strategies for the Roblox keyboard obby.",
+      "metaTitle": "+1 Speed Keyboard Escape Guide - Beginner to Advanced Strategies",
+      "metaDescription": "Master +1 Speed Keyboard Escape with full guides on beginner tips, speed farming, fastest leveling, and F2P progression strategies.",
       "categoryLabel": "GAME GUIDES",
       "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, speed farming, and the rebirth system. Learn everything from first steps to advanced multiplier strategies in +1 Speed Keyboard Escape.",
+      "whatIsDescription": "Comprehensive guides covering the core Speed, Wins, and rebirth loop, from your first keyboard jumps to advanced multiplier stacking and treadmill farming strategies.",
       "why": "Why read guides?",
       "whySteps": {
         "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Speed, Wins, and rebirth loop and avoid common beginner mistakes",
+        "step1Description": "Understand the +1 speed per step loop, wins, and rebirth system to avoid common beginner mistakes.",
         "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to clear keyboard stages and stack multipliers faster",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for treadmill farming, Trails, Auras, and rebirth timing"
+        "step2Description": "Follow proven paths to clear keyboard stages quickly and stack speed multipliers the right way.",
+        "step3Title": "F2P-Friendly Strategies",
+        "step3Description": "Discover the best free methods to level up, farm speed, and progress without spending Robux."
       },
-      "featured": "Featured & Essential",
+      "featured": "Featured Guides",
       "all": "All Guides"
     },
-    "crafting": {
-      "title": "+1 Speed Keyboard Escape Speed Farming",
-      "description": "Master speed farming with steps, Number Buttons, treadmills, Trails, Auras, and Rebirth multipliers in +1 Speed Keyboard Escape.",
-      "metaTitle": "+1 Speed Keyboard Escape Speed Farming - Best Methods & Multipliers",
-      "metaDescription": "Master +1 Speed Keyboard Escape speed farming. Learn Number Buttons, treadmill multipliers, Trails, Auras, and Rebirth strategies for the fastest Speed gains.",
-      "categoryLabel": "SPEED FARMING",
-      "whatIs": "What is Speed Farming?",
-      "whatIsDescription": "Speed farming combines every multiplier source in +1 Speed Keyboard Escape, from basic walking and Number Buttons to treadmills, Trails, Auras, and Rebirth, so each session compounds on the last.",
-      "why": "Why optimize speed farming?",
+    "stages": {
+      "title": "+1 Speed Keyboard Escape Stages",
+      "description": "Clear every +1 Speed Keyboard Escape stage with detailed level guides, layouts, and tips for stages 12, 15, and the road to stage 120.",
+      "metaTitle": "+1 Speed Keyboard Escape Stages - Level Guides & Walkthroughs",
+      "metaDescription": "Beat every +1 Speed Keyboard Escape stage with level guides for stages 10-15 and beyond, including layouts, jumps, and finish strategies.",
+      "categoryLabel": "STAGE GUIDES",
+      "whatIs": "What are Stages?",
+      "whatIsDescription": "Stages are the keyboard-themed obby levels you clear step by step. Each stage adds platforming hazards and gaps that scale with your speed, and finishing stages earns Wins toward your next rebirth.",
+      "why": "Why use stage guides?",
       "whySteps": {
-        "step1Title": "Stack Multipliers",
-        "step1Description": "Combine Rebirth, Trail, Aura, and treadmill multipliers for compounding Speed",
-        "step2Title": "Use Treadmills",
-        "step2Description": "Farm Speed AFK with the free Chocolate treadmill or upgrade to stronger ones",
-        "step3Title": "Rebuild Faster",
-        "step3Description": "Rebirth early so post-reset farming runs grow quicker every time"
+        "step1Title": "Beat Hard Levels",
+        "step1Description": "Learn the exact jumps and routes for tricky stages like 12 and 15 that block new players.",
+        "step2Title": "Plan Your Route",
+        "step2Description": "See the full stage layout so you can pick the safest path and avoid one wrong jump sending you back.",
+        "step3Title": "Track Your Progress",
+        "step3Description": "Follow the stage roadmap from level 1 up to stage 120 and know exactly what comes next."
       },
-      "featured": "Featured & Essential",
-      "all": "All Speed Farming Guides"
+      "featured": "Featured Stages",
+      "all": "All Stages"
     },
-    "items": {
-      "title": "+1 Speed Keyboard Escape Trails and Auras",
-      "description": "Detailed guides covering Trails, Auras, treadmills, and multiplier gear with costs, unlock requirements, and best-use tips.",
-      "metaTitle": "+1 Speed Keyboard Escape Trails & Auras - Tier List and Costs",
-      "metaDescription": "Complete +1 Speed Keyboard Escape Trails and Auras database including multiplier values, Wins costs, and best farming value for every gear tier.",
-      "categoryLabel": "TRAILS & AURAS",
-      "whatIs": "What are Trails and Auras?",
-      "whatIsDescription": "Trails and Auras are multiplier gear in +1 Speed Keyboard Escape purchased with Wins. Equip one of each together and keep upgrading as your Wins income grows.",
-      "why": "Why check Trails and Auras guides?",
+    "maze": {
+      "title": "+1 Speed Keyboard Escape Maze",
+      "description": "Navigate every +1 Speed Keyboard Escape maze and stage route with maps and step-by-step paths for stages 12, 15, and world 2 mazes.",
+      "metaTitle": "+1 Speed Keyboard Escape Maze - Maps & Route Guides",
+      "metaDescription": "Find your way through +1 Speed Keyboard Escape mazes with route maps for stage 12, stage 15, and world 2, plus step-by-step path directions.",
+      "categoryLabel": "MAZE ROUTES",
+      "whatIs": "What are Mazes?",
+      "whatIsDescription": "Mazes are branching keyboard-platform sections inside certain stages where the correct route is hidden. Knowing the right path saves time and prevents backtracking across hazardous gaps.",
+      "why": "Why use maze routes?",
       "whySteps": {
-        "step1Title": "Pick the Right Gear",
-        "step1Description": "Choose the best Trail and Aura for your current Wins income",
-        "step2Title": "Stack Multipliers",
-        "step2Description": "Pair Trails and Auras with Rebirth and treadmill bonuses",
-        "step3Title": "Plan Upgrades",
-        "step3Description": "Know exactly which gear to buy next for the biggest Speed jump"
+        "step1Title": "Never Get Lost",
+        "step1Description": "Follow the verified route for each maze so you always know which platform to take next.",
+        "step2Title": "Save Time",
+        "step2Description": "Skip dead ends and wrong turns that cost speed and wins during a run.",
+        "step3Title": "Clear Hard Mazes",
+        "step3Description": "Get step-by-step directions for the hardest mazes in stage 12, stage 15, and world 2."
       },
-      "featured": "Featured & Essential",
-      "all": "All Trails and Auras"
+      "featured": "Featured Mazes",
+      "all": "All Mazes"
     },
-    "biomes": {
-      "title": "+1 Speed Keyboard Escape Worlds and Stages",
-      "description": "Explore worlds, stage routes, obstacle types, and reset risks for every keyboard world in +1 Speed Keyboard Escape.",
-      "metaTitle": "+1 Speed Keyboard Escape Worlds & Stages - Route Tips and Walkthroughs",
-      "metaDescription": "Explore +1 Speed Keyboard Escape worlds and stages including keyboard platforms, mazes, gates, tsunamis, and route tips for clearing every world.",
-      "categoryLabel": "WORLDS & STAGES",
-      "whatIs": "What are Worlds and Stages?",
-      "whatIsDescription": "Guides to each world, stage route, obstacle type, and reset risk. Learn what to expect and how to prepare for keyboard platforms, mazes, and timed hazards.",
-      "why": "Why explore worlds and stages?",
+    "worlds": {
+      "title": "+1 Speed Keyboard Escape Worlds",
+      "description": "Explore every +1 Speed Keyboard Escape world with map guides for world 1, 2, and 3, including stage routes and world-specific strategies.",
+      "metaTitle": "+1 Speed Keyboard Escape Worlds - Map & Stage Guides",
+      "metaDescription": "Discover every +1 Speed Keyboard Escape world including world 1, 2, and 3 with maps, stage routes, and world-specific progression tips.",
+      "categoryLabel": "WORLD MAPS",
+      "whatIs": "What are Worlds?",
+      "whatIsDescription": "Worlds are the large themed maps - Candy, Chocolate, Future City, and beyond - each containing their own stages, mazes, treadmills, and finish lines to conquer.",
+      "why": "Why explore world guides?",
       "whySteps": {
-        "step1Title": "Learn Routes",
-        "step1Description": "Memorize safe paths so one wrong step does not reset your run",
-        "step2Title": "Time Hazards",
-        "step2Description": "Read bridges, tsunamis, and gates so you cross cleanly",
-        "step3Title": "Farm Wins",
-        "step3Description": "Repeat clearable stages to bank Wins for stronger upgrades"
+        "step1Title": "Know Each Map",
+        "step1Description": "Learn the layout and theme of world 1, 2, and 3 so you can plan your route before you run.",
+        "step2Title": "Find Key Stages",
+        "step2Description": "Quickly locate the important stages, treadmills, and multipliers hidden inside each world.",
+        "step3Title": "World-Specific Tactics",
+        "step3Description": "Apply the right strategy for each world's unique hazards and platforming style."
       },
-      "featured": "Featured & Essential",
-      "all": "All Worlds and Stages"
+      "featured": "Featured Worlds",
+      "all": "All Worlds"
     },
-    "building": {
-      "title": "+1 Speed Keyboard Escape Rebirth and Progression",
-      "description": "Master rebirth timing, multiplier stacking, and long-term progression for permanent Speed growth in +1 Speed Keyboard Escape.",
-      "metaTitle": "+1 Speed Keyboard Escape Rebirth Guide - When and Why to Rebirth",
-      "metaDescription": "Master +1 Speed Keyboard Escape rebirth with level requirements, multiplier rewards, reset rules, and timing strategies for permanent Speed scaling.",
-      "categoryLabel": "REBIRTH & PROGRESSION",
+    "rebirth": {
+      "title": "+1 Speed Keyboard Escape Rebirth",
+      "description": "Master the +1 Speed Keyboard Escape rebirth system with guides on rebirth conditions, timing, max rebirth levels, and multiplier stacking.",
+      "metaTitle": "+1 Speed Keyboard Escape Rebirth - Max Level & Multiplier Guide",
+      "metaDescription": "Learn when and how to rebirth in +1 Speed Keyboard Escape, max rebirth levels, multiplier bonuses, and the fastest route to max speed.",
+      "categoryLabel": "REBIRTH GUIDE",
       "whatIs": "What is Rebirth?",
-      "whatIsDescription": "Rebirth is the long-term progression system in +1 Speed Keyboard Escape. Reset your current Speed level to unlock a permanent multiplier that makes all future farming faster.",
+      "whatIsDescription": "Rebirth resets your current run in exchange for a permanent speed multiplier and a rebirth badge. Each rebirth multiplies the speed you earn, making future runs escalate far beyond the last.",
       "why": "Why rebirth?",
       "whySteps": {
-        "step1Title": "Permanent Multipliers",
-        "step1Description": "Turn short-term Speed into a multiplier that never resets",
-        "step2Title": "Faster Rebuilds",
-        "step2Description": "Each rebirth makes post-reset farming quicker than before",
-        "step3Title": "Long-Term Scaling",
-        "step3Description": "Stack rebirths so late-game stages and gear become affordable"
+        "step1Title": "Stack Multipliers",
+        "step1Description": "Each rebirth adds a permanent multiplier, so your speed grows faster on every subsequent run.",
+        "step2Title": "Reach Max Speed",
+        "step2Description": "Plan your path to max rebirth and unlock the highest speed bonuses in the game.",
+        "step3Title": "Time It Right",
+        "step3Description": "Know exactly when to rebirth for the best return instead of resetting too early or too late."
       },
-      "featured": "Featured & Essential",
+      "featured": "Featured Rebirth Guides",
       "all": "All Rebirth Guides"
     },
-    "support": {
-      "title": "+1 Speed Keyboard Escape Events and Updates",
-      "description": "Update notes, limited-time events, reward boosts, and free reward guides for +1 Speed Keyboard Escape.",
-      "metaTitle": "+1 Speed Keyboard Escape Events & Updates - Codes and Free Rewards",
-      "metaDescription": "Get the latest +1 Speed Keyboard Escape update notes, events, limited-time boosts, codes, social rewards, and Medal Aura claim guides.",
-      "categoryLabel": "EVENTS & UPDATES",
-      "whatIs": "What are Events and Updates?",
-      "whatIsDescription": "Guides covering new content, limited-time events, reward boosts, and free reward systems like codes, social codes, group gifts, and the Medal Aura.",
-      "why": "Why follow events and updates?",
+    "items": {
+      "title": "+1 Speed Keyboard Escape Items",
+      "description": "Complete +1 Speed Keyboard Escape items and shop guide covering medals, quests, shop upgrades, and the best items to buy for your playstyle.",
+      "metaTitle": "+1 Speed Keyboard Escape Items - Shop, Medals & Quest Guide",
+      "metaDescription": "Browse every +1 Speed Keyboard Escape item, shop upgrade, medal quest, and purchase priority to spend your rewards wisely.",
+      "categoryLabel": "ITEMS & SHOP",
+      "whatIs": "What are Items?",
+      "whatIsDescription": "Items cover everything in the shop and reward tracks - treadmills, trails, auras, medals, and upgrades - that boost your speed, multipliers, and cosmetics as you progress.",
+      "why": "Why learn the items?",
       "whySteps": {
-        "step1Title": "Catch Free Rewards",
-        "step1Description": "Redeem codes, social codes, and group gifts for flat Speed boosts",
-        "step2Title": "Use Limited Boosts",
-        "step2Description": "Stack event multipliers and free 2x Speed boosts with treadmills",
-        "step3Title": "Stay Current",
-        "step3Description": "Track new worlds, gear, and rebirth changes from each update"
+        "step1Title": "Spend Wisely",
+        "step1Description": "Know which shop upgrades and items give the best value before you spend your hard-earned rewards.",
+        "step2Title": "Complete Medal Quests",
+        "step2Description": "Track medal quests and unlock the extra items and bonuses tied to each one.",
+        "step3Title": "Build Your Loadout",
+        "step3Description": "Combine trails, auras, and treadmills into a loadout that matches your speed and rebirth strategy."
       },
-      "featured": "Featured & Essential",
-      "all": "All Events and Updates"
+      "featured": "Featured Items",
+      "all": "All Items"
     }
   }
 }

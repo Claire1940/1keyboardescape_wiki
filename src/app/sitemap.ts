@@ -9,26 +9,24 @@ const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.1keyboardescap
 
 // 内容类型优先级配置
 const contentTypePriority: Record<string, number> = {
-	'guides': 0.9,
-	'crafting': 0.9,
-	'biomes': 0.8,
-	'creatures': 0.8,
+	'codes': 0.9,
+	'guide': 0.9,
+	'stages': 0.8,
+	'maze': 0.8,
+	'worlds': 0.8,
+	'rebirth': 0.8,
 	'items': 0.8,
-	'achievements': 0.7,
-	'lore': 0.7,
-	'support': 0.6,
 }
 
 // 内容更新频率配置
 const contentTypeChangeFrequency: Record<string, 'daily' | 'weekly' | 'monthly'> = {
-	'guides': 'weekly',
-	'crafting': 'weekly',
-	'biomes': 'weekly',
-	'creatures': 'weekly',
+	'codes': 'daily',
+	'guide': 'weekly',
+	'stages': 'weekly',
+	'maze': 'weekly',
+	'worlds': 'weekly',
+	'rebirth': 'weekly',
 	'items': 'weekly',
-	'achievements': 'monthly',
-	'lore': 'monthly',
-	'support': 'monthly',
 }
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
