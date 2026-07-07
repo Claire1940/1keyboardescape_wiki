@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "+1 Speed Keyboard Escape Wiki - Codes & Rebirth",
+      "description": "Find +1 Speed Keyboard Escape codes, Roblox beginner tips, rebirth help, treadmill upgrades, multipliers, worlds, events, and ASMR keyboard obby guides.",
+      "keywords": "+1 Speed Keyboard Escape, Roblox, codes, rebirth, speed, treadmill, multipliers, obby",
+      "ogTitle": "+1 Speed Keyboard Escape Wiki - Codes & Rebirth",
+      "ogDescription": "Find +1 Speed Keyboard Escape codes, Roblox beginner tips, rebirth help, treadmill upgrades, multipliers, worlds, events, and ASMR keyboard obby guides.",
+      "twitterTitle": "+1 Speed Keyboard Escape Wiki - Codes & Rebirth",
+      "twitterDescription": "Find +1 Speed Keyboard Escape codes, Roblox beginner tips, rebirth help, and ASMR keyboard obby guides."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Roblox Speed Obby with ASMR Keyboard Vibes",
+    "title": "+1 Speed Keyboard Escape Wiki",
+    "description": "Run across candy and chocolate keyboard keys, gain +1 speed every step, train on treadmills, unlock multipliers, race friends, and reach the finish before one wrong jump sends you back.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnRobloxCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "2.4B+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "348K+",
+        "label": "Players Online"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "97.8%",
+        "label": "User Rating"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "22",
+        "label": "Max Players"
       }
     }
   },
@@ -785,26 +785,25 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
+    "title": "Ready to Race in +1 Speed Keyboard Escape?",
+    "description": "Join the SecretVerse Studio community on Discord for the latest codes, updates, and speed-running tips!",
     "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "+1 Speed Keyboard Escape Wiki",
+    "description": "Your complete resource hub for +1 Speed Keyboard Escape Roblox codes, beginner guides, speed farming, rebirth, treadmills, multipliers, trails, auras, stages, and events.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
     "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "robloxGame": "Play on Roblox",
+    "robloxGroup": "Roblox Group",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 +1 Speed Keyboard Escape Wiki. Not affiliated with SecretVerse Studio or the developers of +1 Speed Keyboard Escape.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {

@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
-      "description": "Eksiksiz Lucid Blocks kaynak merkezi! Steam gizli soygun oyunu için demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri, üretim ipuçları, kontroller, modlar ve topluluk bağlantıları edinin.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, demo indirme, başlangıç rehberi, işbirliği rehberi, üretim, ekipman, modlar, BepInEx, Steam oyunu, gizli oyun",
-      "ogTitle": "Lucid Blocks Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
-      "ogDescription": "Eksiksiz Lucid Blocks kaynak merkezi! Steam gizli soygun oyunu için demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri, üretim ipuçları ve modlar edinin.",
-      "twitterTitle": "Lucid Blocks Wiki - Demo İndirme, İşbirliği Rehberi, Üretim & Modlar",
-      "twitterDescription": "Eksiksiz Lucid Blocks kaynak merkezi! Demo indirme bilgileri, başlangıç rehberleri, işbirliği stratejileri ve üretim ipuçları edinin."
+      "title": "+1 Speed Keyboard Escape Wiki - Kodlar ve Yeniden Doğuş",
+      "description": "+1 Speed Keyboard Escape kodlarını, Roblox yeni başlayanlar ipuçlarını, yeniden doğuş yardımı, koşu bandı yükseltmeleri, çarpanları, dünyaları, etkinlikleri ve ASMR klavye obby rehberlerini bulun.",
+      "keywords": "+1 Speed Keyboard Escape, Roblox, kodlar, yeniden doğuş, hız, koşu bandı, çarpanlar, obby",
+      "ogTitle": "+1 Speed Keyboard Escape Wiki - Kodlar ve Yeniden Doğuş",
+      "ogDescription": "+1 Speed Keyboard Escape kodlarını, Roblox yeni başlayanlar ipuçlarını, yeniden doğuş yardımı, koşu bandı yükseltmeleri, çarpanları, dünyaları, etkinlikleri ve ASMR klavye obby rehberlerini bulun.",
+      "twitterTitle": "+1 Speed Keyboard Escape Wiki - Kodlar ve Yeniden Doğuş",
+      "twitterDescription": "+1 Speed Keyboard Escape kodlarını, Roblox yeni başlayanlar ipuçlarını, yeniden doğuş yardımı ve ASMR klavye obby rehberlerini bulun."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Makaleler yakında"
   },
   "hero": {
-    "badge": "Ufak cüceler. Büyük evler. Arkadaşlarla gizli soygunlar.",
-    "title": "Lucid Blocks wiki",
-    "description": "Lucid Blocks için merkeziniz: soygunlar nasıl işliyor, Yüksek Cüce işleri, üretim & geliştirmeler, düşmanlar, kontroller ve her koşuda hayatta kalmanın en hızlı yolları.",
-    "getFreeCodesCTA": "Demo İndir",
-    "playOnSteamCTA": "Steam'de İstek Listesine Ekle",
+    "badge": "ASMR klavye atmosferli Roblox hız obby'si",
+    "title": "+1 Speed Keyboard Escape Wiki",
+    "description": "Şeker ve çikolata tuşların üzerinde koş, her adımda +1 hız kazan, koşu bantlarında antrenman yap, çarpanları aç, arkadaşlarınla yarış ve yanlış bir atlama seni geri göndermeden önce bitiş çizgisine ulaş.",
+    "getFreeCodesCTA": "Ücretsiz kodları al",
+    "playOnRobloxCTA": "Roblox'ta oyna",
     "stats": {
       "stat1": {
-        "value": "15B",
-        "label": "En Yüksek Eş Zamanlı Kullanıcı (Demo)"
+        "value": "2.4B+",
+        "label": "Toplam ziyaret"
       },
       "stat2": {
-        "value": "6",
-        "label": "İşbirliği Oyuncusu"
+        "value": "348K+",
+        "label": "Çevrimiçi oyuncu"
       },
       "stat3": {
-        "value": "31.01.2026",
-        "label": "Demo Yayın Tarihi"
+        "value": "97.8%",
+        "label": "Değerlendirme"
       },
       "stat4": {
-        "value": "PC (Steam)",
-        "label": "Platform"
+        "value": "22",
+        "label": "Maks. oyuncu"
       }
     }
   },
@@ -819,27 +819,26 @@
     ]
   },
   "cta": {
-    "title": "Soygun Yapmaya Hazır mısınız?",
-    "description": "İşbirliği grupları, güncellemeler ve mod tartışmaları için Discord'da Lucid Blocks topluluğuna katılın!",
-    "joinCommunity": "Discord'a Katıl",
-    "joinGame": "Steam'de Demo Al"
+    "title": "+1 Speed Keyboard Escape yarışına hazır mısın?",
+    "description": "En yeni kodlar, güncellemeler ve hızlı koşu ipuçları için Discord'daki SecretVerse Studio topluluğuna katıl!",
+    "joinCommunity": "Discord'a katıl",
+    "joinGame": "Roblox'ta oyna"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Lucid Blocks gizli soygunları, işbirliği stratejileri, modlar ve topluluk rehberleri için eksiksiz kaynak merkeziniz.",
+    "title": "+1 Speed Keyboard Escape Wiki",
+    "description": "+1 Speed Keyboard Escape Roblox kodları, yeni başlayanlar rehberleri, hız çiftliği, yeniden doğuş, koşu bantları, çarpanlar, izler, auralar, aşamalar ve etkinlikler için eksiksiz kaynak merkezi.",
     "resources": "Kaynaklar",
     "community": "Topluluk",
     "legal": "Yasal",
     "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Topluluğu",
-    "steamStore": "Steam Mağazası",
+    "robloxGame": "Roblox'ta oyna",
+    "robloxGroup": "Roblox Grubu",
     "about": "Hakkında",
-    "privacy": "Gizlilik Politikası",
-    "terms": "Hizmet Şartları",
-    "copyrightNotice": "Telif Hakkı",
-    "copyright": "© 2026 Lucid Blocks Wiki. Lucid Blocks geliştiricileriyle bağlantılı değildir.",
-    "disclaimer": "Resmi olmayan hayran yapımı kaynak web sitesi."
+    "privacy": "Gizlilik",
+    "terms": "Kullanım şartları",
+    "copyrightNotice": "Telif hakkı",
+    "copyright": "© 2026 +1 Speed Keyboard Escape Wiki. SecretVerse Studio veya +1 Speed Keyboard Escape geliştiricileriyle bağlantılı değildir.",
+    "disclaimer": "Resmi olmayan, hayranlar tarafından oluşturulmuş kaynak sitesi."
   },
   "pages": {
     "guides": {

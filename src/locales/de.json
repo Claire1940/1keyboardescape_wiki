@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "description": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps, Steuerung, Mods und Community-Links für das Steam-Stealth-Heist-Spiel.",
-      "keywords": "Lucid Blocks Wiki, Lucid Blocks, Demo-Download, Anfängerleitfaden, Koop-Leitfaden, Crafting, Ausrüstung, Mods, BepInEx, Steam-Spiel, Stealth-Spiel",
-      "ogTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "ogDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien, Crafting-Tipps und Mods für das Steam-Stealth-Heist-Spiel.",
-      "twitterTitle": "Lucid Blocks Wiki - Demo-Download, Koop-Leitfaden, Crafting & Mods",
-      "twitterDescription": "Vollständige Lucid Blocks Ressourcenzentrale! Hol dir Infos zum Demo-Download, Anfängerleitfäden, Koop-Strategien und Crafting-Tipps."
+      "title": "+1 Speed Keyboard Escape Wiki - Codes & Wiedergeburt",
+      "description": "Finde +1 Speed Keyboard Escape-Codes, Roblox-Anfängertipps, Rebirth-Hilfe, Laufband-Upgrades, Multiplikatoren, Welten, Events und ASMR-Tastatur-Obby-Leitfäden.",
+      "keywords": "+1 Speed Keyboard Escape, Roblox, Codes, Rebirth, Speed, Laufband, Multiplikatoren, Obby",
+      "ogTitle": "+1 Speed Keyboard Escape Wiki - Codes & Wiedergeburt",
+      "ogDescription": "Finde +1 Speed Keyboard Escape-Codes, Roblox-Anfängertipps, Rebirth-Hilfe, Laufband-Upgrades, Multiplikatoren, Welten, Events und ASMR-Tastatur-Obby-Leitfäden.",
+      "twitterTitle": "+1 Speed Keyboard Escape Wiki - Codes & Wiedergeburt",
+      "twitterDescription": "Finde +1 Speed Keyboard Escape-Codes, Roblox-Anfängertipps, Rebirth-Hilfe und ASMR-Tastatur-Obby-Leitfäden."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Artikel folgen bald"
   },
   "hero": {
-    "badge": "Winzige Gnome. Große Häuser. Stealth-Raubzüge mit Freunden.",
-    "title": "Lucid Blocks Wiki",
-    "description": "Deine zentrale Anlaufstelle für Lucid Blocks: wie die Raubzüge funktionieren, High-Gnome-Aufträge, Crafting & Upgrades, Gegner, Steuerung und die schnellsten Wege, um jeden Durchgang zu überleben.",
-    "getFreeCodesCTA": "Demo herunterladen",
-    "playOnSteamCTA": "Auf die Wunschliste bei Steam",
+    "badge": "Roblox-Speed-Obby mit ASMR-Tasten-Vibes",
+    "title": "+1 Speed Keyboard Escape Wiki",
+    "description": "Renne über Bonbon- und Schokoladentasten, bekomme mit jedem Schritt +1 Speed, trainiere auf Laufbändern, schalte Multiplikatoren frei, tritte gegen Freunde an und erreiche das Ziel, bevor ein falscher Sprung dich zurückwirft.",
+    "getFreeCodesCTA": "Kostenlose Codes holen",
+    "playOnRobloxCTA": "Auf Roblox spielen",
     "stats": {
       "stat1": {
-        "value": "15.000",
-        "label": "Gleichzeitige Spieler (Demo)"
+        "value": "2.4B+",
+        "label": "Besuche gesamt"
       },
       "stat2": {
-        "value": "6",
-        "label": "Koop-Spieler"
+        "value": "348K+",
+        "label": "Spieler online"
       },
       "stat3": {
-        "value": "31.01.2026",
-        "label": "Demo-Veröffentlichung"
+        "value": "97.8%",
+        "label": "Wertung"
       },
       "stat4": {
-        "value": "PC (Steam)",
-        "label": "Plattform"
+        "value": "22",
+        "label": "Max. Spieler"
       }
     }
   },
@@ -819,27 +819,26 @@
     ]
   },
   "cta": {
-    "title": "Bereit, mit dem Raub zu beginnen?",
-    "description": "Tritt der Lucid Blocks Community auf Discord bei, um Koop-Gruppen, Updates und Mod-Diskussionen zu erhalten!",
+    "title": "Bereit, bei +1 Speed Keyboard Escape anzutreten?",
+    "description": "Tritt der SecretVerse Studio-Community auf Discord bei für die neuesten Codes, Updates und Speedrun-Tipps!",
     "joinCommunity": "Discord beitreten",
-    "joinGame": "Demo auf Steam herunterladen"
+    "joinGame": "Auf Roblox spielen"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Dein komplettes Ressourcenzentrum für Lucid Blocks Stealth-Raubzüge, Koop-Strategien, Mods und Community-Leitfäden.",
+    "title": "+1 Speed Keyboard Escape Wiki",
+    "description": "Dein komplettes Ressourcen-Center für +1 Speed Keyboard Escape-Roblox-Codes, Anfängerleitfäden, Speed-Farming, Rebirth, Laufbänder, Multiplikatoren, Trails, Auren, Level und Events.",
     "resources": "Ressourcen",
     "community": "Community",
     "legal": "Rechtliches",
     "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "robloxGame": "Auf Roblox spielen",
+    "robloxGroup": "Roblox-Gruppe",
     "about": "Über uns",
-    "privacy": "Datenschutzrichtlinie",
+    "privacy": "Datenschutz",
     "terms": "Nutzungsbedingungen",
     "copyrightNotice": "Urheberrecht",
-    "copyright": "© 2026 Lucid Blocks Wiki. Nicht mit den Entwicklern von Lucid Blocks verbunden.",
-    "disclaimer": "Inoffizielle von Fans erstellte Ressourcen-Website."
+    "copyright": "© 2026 +1 Speed Keyboard Escape Wiki. Nicht verbunden mit SecretVerse Studio oder den Entwicklern von +1 Speed Keyboard Escape.",
+    "disclaimer": "Inoffizielle, von Fans erstellte Website."
   },
   "pages": {
     "guides": {

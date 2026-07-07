@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Вики Lucid Blocks — крафт, биомы и достижения",
-      "description": "Вики Lucid Blocks содержит информацию о крафте, биомах, существах, предметах, достижениях, концовках и советы по выживанию в сюрреалистичной воксельной песочнице на Steam.",
-      "keywords": "Lucid Blocks, вики Lucid Blocks, крафт, биомы, достижения, выживание, Steam",
-      "ogTitle": "Вики Lucid Blocks — крафт, биомы и достижения",
-      "ogDescription": "Вики Lucid Blocks содержит информацию о крафте, биомах, существах, предметах, достижениях, концовках и советы по выживанию в сюрреалистичной воксельной песочнице на Steam.",
-      "twitterTitle": "Вики Lucid Blocks — крафт, биомы и достижения",
-      "twitterDescription": "Вики Lucid Blocks содержит информацию о крафте, биомах, существах, предметах, достижениях и советы по выживанию в сюрреалистичной воксельной песочнице на Steam."
+      "title": "+1 Speed Keyboard Escape Вики - Коды и Перерождение",
+      "description": "Найдите коды +1 Speed Keyboard Escape, советы для новичков Roblox, помощь с перерождением, улучшения беговых дорожек, множители, миры, события и гайды obby ASMR-клавиатуры.",
+      "keywords": "+1 Speed Keyboard Escape, Roblox, коды, перерождение, скорость, беговая дорожка, множители, obby",
+      "ogTitle": "+1 Speed Keyboard Escape Вики - Коды и Перерождение",
+      "ogDescription": "Найдите коды +1 Speed Keyboard Escape, советы для новичков Roblox, помощь с перерождением, улучшения беговых дорожек, множители, миры, события и гайды obby ASMR-клавиатуры.",
+      "twitterTitle": "+1 Speed Keyboard Escape Вики - Коды и Перерождение",
+      "twitterDescription": "Найдите коды +1 Speed Keyboard Escape, советы для новичков Roblox, помощь с перерождением и гайды obby ASMR-клавиатуры."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Статьи скоро появятся"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Воксельная песочница на выживание",
-    "title": "Lucid Blocks Вики",
-    "description": "Исследуйте сказочные биомы, объединяйте предметы с помощью Apotheosis, свободно стройте и выживайте среди странных существ в этой сюрреалистичной песочнице с открытым миром на Steam.",
-    "getFreeCodesCTA": "Изучить руководство по крафту",
-    "playOnSteamCTA": "Играть на Steam",
+    "badge": "Speed-Obby в Roblox с ASMR-клавиатурой",
+    "title": "+1 Speed Keyboard Escape Вики",
+    "description": "Бегите по конфетным и шоколадным клавишам, получайте +1 к скорости за каждый шаг, тренируйтесь на беговых дорожках, открывайте множители, соревнуйтесь с друзьями и добирайтесь до финиша, пока один неверный прыжок не вернул вас назад.",
+    "getFreeCodesCTA": "Получить бесплатные коды",
+    "playOnRobloxCTA": "Играть в Roblox",
     "stats": {
       "stat1": {
-        "value": "1 325",
-        "label": "Игроков онлайн"
+        "value": "2.4B+",
+        "label": "Всего визитов"
       },
       "stat2": {
-        "value": "1 986",
-        "label": "Пиковый онлайн"
+        "value": "348K+",
+        "label": "Игроков онлайн"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Положительных отзывов"
+        "value": "97.8%",
+        "label": "Оценка"
       },
       "stat4": {
-        "value": "12 марта 2026",
-        "label": "Дата выхода"
+        "value": "22",
+        "label": "Макс. игроков"
       }
     }
   },
@@ -181,27 +181,26 @@
     ]
   },
   "cta": {
-    "title": "Готовы исследовать Lucid Blocks?",
-    "description": "Присоединяйтесь к сообществу Lucid Blocks в Discord, где вас ждут руководства, обновления и обсуждения!",
-    "joinCommunity": "Присоединиться к Discord",
-    "joinGame": "Играть на Steam"
+    "title": "Готовы соревноваться в +1 Speed Keyboard Escape?",
+    "description": "Присоединяйтесь к сообществу SecretVerse Studio в Discord, чтобы получать свежие коды, обновления и советы по спидрану!",
+    "joinCommunity": "Войти в Discord",
+    "joinGame": "Играть в Roblox"
   },
   "footer": {
-    "title": "Вики Lucid Blocks",
-    "description": "Ваш полноценный ресурсный центр по крафту, биомам, существам, достижениям и руководствам по выживанию в Lucid Blocks.",
+    "title": "+1 Speed Keyboard Escape Вики",
+    "description": "Ваш полноценный центр ресурсов по кодам Roblox +1 Speed Keyboard Escape, гайдам для новичков, фарму скорости, перерождению, беговым дорожкам, множителям, следам, аурам, этапам и событиям.",
     "resources": "Ресурсы",
     "community": "Сообщество",
-    "legal": "Юридическая информация",
+    "legal": "Правовая информация",
     "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Сообщество Steam",
-    "steamStore": "Магазин Steam",
-    "about": "О проекте",
-    "privacy": "Политика конфиденциальности",
+    "robloxGame": "Играть в Roblox",
+    "robloxGroup": "Группа Roblox",
+    "about": "О нас",
+    "privacy": "Конфиденциальность",
     "terms": "Условия использования",
     "copyrightNotice": "Авторское право",
-    "copyright": "© 2026 Вики Lucid Blocks. Не связано с разработчиками Lucid Blocks.",
-    "disclaimer": "Неофициальный фанатский ресурс."
+    "copyright": "© 2026 +1 Speed Keyboard Escape Вики. Не аффилировано с SecretVerse Studio или разработчиками +1 Speed Keyboard Escape.",
+    "disclaimer": "Неофициальный фанатский ресурсный сайт."
   },
   "pages": {
     "guides": {
